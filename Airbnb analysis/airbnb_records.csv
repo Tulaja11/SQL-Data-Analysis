@@ -1,0 +1,2001 @@
+listing_id,host_id,city,room_type,price,minimum_nights,number_of_reviews,rating,availability_365
+1,3418,Dallas,Shared room,418,7,280,4.1,345
+2,4878,Los Angeles,Entire home,100,9,145,3.7,282
+3,2753,New York,Entire home,305,9,151,2.6,350
+4,4275,Chicago,Entire home,327,5,269,3.1,187
+5,4770,New York,Shared room,424,5,214,4.8,261
+6,3005,Dallas,Shared room,472,1,161,4.7,341
+7,3831,Miami,Private room,226,7,300,3.8,89
+8,1947,New York,Private room,391,10,21,4.1,140
+9,4571,Chicago,Shared room,61,1,20,4.9,189
+10,4971,Los Angeles,Shared room,423,4,21,3.7,34
+11,1281,Los Angeles,Shared room,217,4,263,2.9,180
+12,3471,Dallas,Entire home,474,7,203,3.8,62
+13,3756,Dallas,Private room,287,4,105,4.9,59
+14,3615,New York,Entire home,202,7,247,4.6,347
+15,2632,Miami,Entire home,31,6,177,3.9,219
+16,2161,New York,Private room,251,7,233,3.5,348
+17,4337,New York,Entire home,73,3,131,4.2,55
+18,3320,Chicago,Private room,314,7,189,4.1,269
+19,1753,Miami,Shared room,115,6,209,4.4,102
+20,3898,Chicago,Entire home,245,7,277,4.4,243
+21,2687,New York,Private room,437,6,204,4.9,175
+22,1137,Dallas,Entire home,70,5,41,4.7,4
+23,4395,New York,Entire home,302,10,181,2.6,30
+24,1334,Los Angeles,Shared room,43,9,126,4.1,351
+25,1452,New York,Private room,349,6,184,4.3,270
+26,2625,Chicago,Private room,228,5,155,4.0,356
+27,2100,Los Angeles,Shared room,229,6,215,2.7,78
+28,3809,Miami,Shared room,429,7,182,3.8,77
+29,2595,Dallas,Entire home,264,9,296,4.3,226
+30,2114,Los Angeles,Private room,319,3,164,3.3,129
+31,3248,New York,Private room,404,5,97,4.7,79
+32,1272,Dallas,Private room,350,6,236,4.8,235
+33,2106,Miami,Private room,142,4,248,4.0,288
+34,4139,Dallas,Entire home,143,8,268,3.7,345
+35,1536,Miami,Private room,206,4,271,2.8,111
+36,4773,New York,Shared room,236,8,150,4.9,237
+37,2234,Chicago,Shared room,195,7,284,3.2,208
+38,3897,New York,Shared room,99,2,218,2.6,360
+39,2292,New York,Shared room,297,10,290,4.2,57
+40,3488,Los Angeles,Shared room,39,2,9,3.4,165
+41,3265,Chicago,Private room,355,5,46,2.7,94
+42,4035,Chicago,Shared room,107,8,225,3.5,183
+43,2262,Dallas,Private room,439,6,26,3.5,211
+44,2655,Dallas,Shared room,46,5,46,3.9,308
+45,2395,Dallas,Entire home,329,7,67,2.7,81
+46,4596,Miami,Shared room,433,9,221,3.8,16
+47,2074,Dallas,Private room,297,6,291,3.5,267
+48,2825,Miami,Private room,146,10,46,4.8,340
+49,3208,New York,Entire home,449,8,293,4.1,88
+50,1897,Chicago,Entire home,151,4,163,3.9,113
+51,2447,Chicago,Shared room,431,1,299,4.4,242
+52,3541,Dallas,Shared room,85,7,203,4.9,347
+53,1391,Los Angeles,Entire home,186,6,180,4.3,259
+54,1834,New York,Shared room,404,3,206,3.5,111
+55,3944,Miami,Private room,268,4,281,4.8,119
+56,4224,New York,Entire home,456,7,47,4.0,171
+57,4590,Miami,Shared room,395,7,38,2.7,40
+58,1863,Chicago,Entire home,388,10,14,3.4,116
+59,2339,Los Angeles,Private room,257,5,102,2.7,84
+60,2193,Dallas,Private room,412,3,120,2.7,196
+61,2831,Los Angeles,Entire home,395,2,72,4.5,258
+62,2450,Dallas,Entire home,453,10,194,3.0,183
+63,2386,Chicago,Private room,127,7,258,4.2,251
+64,2740,Los Angeles,Shared room,494,6,153,3.2,22
+65,4445,Miami,Shared room,475,2,127,4.8,189
+66,1371,Miami,Shared room,255,7,85,3.5,311
+67,3788,Los Angeles,Private room,125,1,163,4.9,151
+68,3431,Los Angeles,Shared room,214,4,157,2.9,358
+69,3656,Miami,Private room,378,1,290,3.2,132
+70,3695,Chicago,Shared room,481,1,173,2.8,75
+71,2216,New York,Entire home,315,2,81,4.4,313
+72,2450,Miami,Shared room,380,9,58,4.0,326
+73,4184,Miami,Entire home,353,7,42,5.0,341
+74,3866,New York,Entire home,420,8,201,4.5,78
+75,4335,Dallas,Private room,355,6,32,4.1,168
+76,1611,Chicago,Shared room,72,10,166,4.2,78
+77,4177,Los Angeles,Shared room,303,8,17,3.9,40
+78,4635,Chicago,Shared room,65,3,282,4.1,93
+79,4413,Dallas,Private room,154,5,190,4.9,239
+80,2146,New York,Shared room,297,8,80,3.8,86
+81,1479,Miami,Private room,240,10,65,4.2,163
+82,4549,Los Angeles,Entire home,141,8,21,4.6,294
+83,4986,New York,Private room,383,8,152,2.8,358
+84,4157,Chicago,Entire home,284,5,257,3.1,247
+85,2085,Los Angeles,Private room,269,5,174,4.5,39
+86,3476,New York,Private room,299,7,170,5.0,360
+87,3011,Dallas,Shared room,186,1,173,4.7,138
+88,1781,Los Angeles,Shared room,105,6,77,3.8,327
+89,3210,Los Angeles,Shared room,432,4,284,2.8,0
+90,4398,Dallas,Private room,142,9,207,2.8,118
+91,2172,Dallas,Entire home,460,10,79,3.7,78
+92,1238,Miami,Shared room,45,10,173,3.2,197
+93,2081,New York,Private room,298,6,95,4.7,88
+94,2945,Dallas,Entire home,176,4,93,4.6,229
+95,3344,Chicago,Shared room,471,5,231,3.7,51
+96,3603,Miami,Private room,95,3,63,4.3,202
+97,3689,Dallas,Entire home,309,10,183,3.8,1
+98,4704,Chicago,Shared room,282,6,79,5.0,26
+99,4638,Chicago,Private room,95,1,14,3.8,149
+100,4940,New York,Shared room,441,9,101,4.6,359
+101,2257,New York,Entire home,245,10,266,4.5,313
+102,1385,Dallas,Shared room,236,1,217,2.7,198
+103,2125,Dallas,Entire home,383,7,81,4.8,87
+104,2570,Dallas,Entire home,266,3,195,3.0,148
+105,1807,Chicago,Entire home,214,3,97,2.8,252
+106,1395,Chicago,Entire home,192,10,63,4.3,209
+107,1924,Chicago,Private room,258,6,244,3.7,315
+108,3522,New York,Entire home,238,5,184,3.8,303
+109,4560,New York,Shared room,219,7,71,3.0,310
+110,4360,Chicago,Private room,348,3,6,3.6,335
+111,4176,Dallas,Entire home,321,8,111,3.6,99
+112,4643,Chicago,Private room,139,3,103,2.7,349
+113,1123,New York,Entire home,477,4,32,2.5,290
+114,1646,New York,Entire home,159,7,255,3.3,317
+115,3227,Los Angeles,Shared room,235,7,95,3.3,32
+116,2989,Dallas,Entire home,287,2,165,4.7,225
+117,1731,Dallas,Shared room,187,3,225,3.1,305
+118,3579,Dallas,Shared room,77,10,82,4.7,105
+119,2263,Dallas,Private room,71,8,195,4.3,17
+120,4152,New York,Private room,200,6,89,3.0,249
+121,4036,Miami,Shared room,477,1,295,4.7,99
+122,1657,Miami,Shared room,203,5,183,4.0,316
+123,2186,Dallas,Entire home,478,7,180,3.8,330
+124,3293,Los Angeles,Private room,341,2,289,4.7,326
+125,2779,Miami,Shared room,371,7,272,4.4,286
+126,3065,New York,Entire home,200,2,128,3.5,142
+127,2166,Los Angeles,Shared room,115,3,87,4.0,262
+128,2847,Dallas,Private room,404,9,85,2.6,139
+129,2198,Los Angeles,Shared room,102,2,60,4.4,199
+130,3167,Dallas,Private room,403,2,230,2.6,115
+131,1085,New York,Shared room,492,1,164,2.8,25
+132,4485,New York,Shared room,461,3,106,4.6,277
+133,1130,Miami,Entire home,383,3,108,3.3,97
+134,1214,Dallas,Entire home,66,5,248,4.9,117
+135,4949,Los Angeles,Shared room,310,5,43,2.8,314
+136,2791,Dallas,Private room,119,6,293,4.8,222
+137,2754,Dallas,Entire home,145,3,73,4.0,207
+138,1627,Chicago,Entire home,34,2,284,3.5,88
+139,1525,New York,Entire home,379,8,41,3.0,120
+140,3248,Miami,Private room,275,2,177,4.5,99
+141,4450,New York,Private room,493,4,287,4.8,339
+142,4816,Chicago,Private room,224,6,291,4.8,29
+143,3906,Los Angeles,Private room,153,1,205,4.8,232
+144,4804,New York,Private room,346,8,198,3.8,293
+145,1961,Miami,Entire home,35,9,53,4.8,94
+146,2211,Dallas,Shared room,110,10,129,2.8,198
+147,4184,Dallas,Private room,476,6,24,3.2,289
+148,3175,Miami,Shared room,451,2,76,2.8,48
+149,2440,Chicago,Entire home,295,8,16,2.5,360
+150,4069,Los Angeles,Entire home,392,2,280,3.1,175
+151,1085,Dallas,Private room,484,3,279,4.7,55
+152,3708,Miami,Entire home,151,5,140,3.7,176
+153,4198,Los Angeles,Private room,188,9,254,2.9,47
+154,4203,Dallas,Shared room,293,1,213,2.8,167
+155,4631,Chicago,Entire home,143,6,290,2.6,51
+156,3345,Dallas,Shared room,66,10,34,3.0,27
+157,2301,Dallas,Entire home,486,8,125,3.0,314
+158,2317,Dallas,Shared room,444,7,300,2.9,3
+159,3403,New York,Private room,497,9,257,3.7,304
+160,1791,Dallas,Private room,249,3,15,2.8,341
+161,2011,New York,Shared room,241,9,4,2.6,61
+162,2461,Chicago,Shared room,372,5,104,2.6,72
+163,1632,Miami,Shared room,325,9,159,2.8,70
+164,2319,Chicago,Entire home,69,10,176,3.8,272
+165,3518,Miami,Shared room,392,3,230,3.1,211
+166,2457,Los Angeles,Private room,173,1,201,3.8,158
+167,2444,Chicago,Entire home,245,9,185,5.0,146
+168,1662,Dallas,Private room,74,3,240,3.0,333
+169,4930,Dallas,Private room,56,10,162,4.1,272
+170,1722,New York,Shared room,270,8,195,3.5,41
+171,2145,Chicago,Shared room,286,3,23,2.9,243
+172,1083,New York,Private room,93,1,263,2.9,295
+173,3497,Chicago,Private room,260,10,206,3.1,236
+174,4455,Miami,Shared room,431,6,164,4.9,139
+175,3263,Dallas,Shared room,214,7,252,4.0,46
+176,3337,Dallas,Private room,61,4,8,4.5,225
+177,3594,Los Angeles,Entire home,456,7,80,3.2,267
+178,2266,Miami,Private room,120,3,22,3.1,95
+179,3610,Los Angeles,Shared room,266,2,295,2.5,250
+180,4222,Chicago,Private room,84,9,128,4.8,259
+181,1629,New York,Shared room,323,7,13,3.5,221
+182,3388,New York,Shared room,125,7,48,3.2,250
+183,4122,Dallas,Private room,111,6,130,4.6,83
+184,2288,New York,Shared room,385,5,261,5.0,39
+185,1610,New York,Shared room,456,3,233,4.2,181
+186,1987,New York,Shared room,487,9,254,2.6,304
+187,1712,Chicago,Shared room,420,2,65,3.6,50
+188,1456,Miami,Entire home,373,6,258,3.0,213
+189,2995,New York,Private room,473,3,298,2.6,143
+190,3591,Chicago,Entire home,68,10,233,4.3,192
+191,4695,Miami,Private room,139,7,140,4.7,192
+192,3465,Chicago,Entire home,116,2,173,4.6,10
+193,3683,Dallas,Entire home,369,7,206,3.8,22
+194,3778,New York,Shared room,153,2,27,4.3,29
+195,1233,New York,Private room,323,9,199,3.5,12
+196,3815,Chicago,Shared room,312,5,289,4.0,34
+197,3380,New York,Private room,338,5,244,4.1,147
+198,1503,Miami,Entire home,61,3,96,4.5,138
+199,3908,New York,Shared room,297,10,195,2.9,133
+200,3869,Chicago,Private room,47,7,255,3.1,177
+201,4227,Chicago,Shared room,422,9,188,2.7,6
+202,4982,Dallas,Entire home,405,3,146,4.2,1
+203,4744,New York,Shared room,50,2,180,3.1,190
+204,4671,New York,Shared room,143,9,239,4.5,182
+205,1126,Miami,Shared room,84,9,273,3.6,336
+206,3138,Los Angeles,Entire home,484,4,161,4.3,336
+207,3728,New York,Private room,481,5,282,5.0,15
+208,3185,Los Angeles,Entire home,346,5,4,4.3,143
+209,1883,Dallas,Private room,346,3,146,4.2,131
+210,1436,Miami,Private room,304,7,263,4.6,202
+211,4283,Los Angeles,Shared room,318,6,124,3.2,110
+212,3723,New York,Shared room,422,9,199,4.6,29
+213,1565,New York,Shared room,79,4,251,3.7,161
+214,3238,Los Angeles,Entire home,32,9,112,3.1,210
+215,2873,Chicago,Private room,139,7,243,3.3,348
+216,1992,Dallas,Shared room,323,5,241,4.6,278
+217,3652,Dallas,Private room,454,6,81,4.1,335
+218,3598,Miami,Shared room,468,9,0,3.7,310
+219,3486,Los Angeles,Shared room,462,4,168,4.0,192
+220,4938,Chicago,Entire home,275,6,258,3.8,335
+221,3378,Dallas,Entire home,451,9,202,3.6,96
+222,2231,New York,Private room,176,6,209,3.3,3
+223,4605,Chicago,Shared room,177,4,68,3.5,100
+224,2528,New York,Private room,64,6,195,2.5,64
+225,4124,Miami,Private room,77,9,147,2.6,91
+226,4018,Miami,Entire home,258,5,72,2.6,6
+227,3862,Dallas,Shared room,275,2,255,4.6,18
+228,1419,Dallas,Private room,77,8,257,4.7,251
+229,3615,Dallas,Shared room,308,10,205,4.9,201
+230,4196,Chicago,Private room,228,2,135,3.7,79
+231,2275,Miami,Private room,125,5,132,4.2,358
+232,3215,Chicago,Shared room,287,7,217,5.0,138
+233,2695,Dallas,Private room,206,8,104,3.2,313
+234,3448,Chicago,Entire home,415,9,38,3.9,304
+235,1409,Los Angeles,Entire home,219,1,164,2.6,355
+236,4400,Dallas,Entire home,372,1,45,3.6,211
+237,3982,Dallas,Private room,112,5,36,3.3,97
+238,1415,New York,Shared room,484,8,261,3.4,195
+239,4212,Dallas,Shared room,495,6,133,4.1,36
+240,2119,New York,Shared room,143,3,113,5.0,101
+241,4590,New York,Private room,429,4,185,4.9,12
+242,4960,Los Angeles,Shared room,146,7,3,3.7,217
+243,1496,New York,Entire home,186,6,216,4.4,298
+244,2190,New York,Entire home,199,9,187,3.3,50
+245,3100,Dallas,Private room,199,2,178,3.5,222
+246,2223,New York,Private room,419,7,69,4.9,364
+247,2541,Los Angeles,Entire home,85,2,34,4.8,52
+248,1841,Dallas,Entire home,244,10,33,3.4,59
+249,2399,Los Angeles,Shared room,266,5,181,2.6,303
+250,1107,Los Angeles,Entire home,321,9,273,4.1,195
+251,3411,Los Angeles,Shared room,430,7,199,4.0,263
+252,3318,Dallas,Shared room,175,10,59,3.8,218
+253,1666,Los Angeles,Private room,173,3,51,4.8,339
+254,2851,Dallas,Shared room,37,8,84,4.9,301
+255,4376,Miami,Shared room,153,3,84,3.1,12
+256,3826,Chicago,Shared room,416,9,137,4.8,309
+257,3452,Dallas,Shared room,36,7,205,3.8,9
+258,3913,Dallas,Private room,183,7,230,4.6,91
+259,2117,Chicago,Entire home,291,2,282,4.9,77
+260,1336,New York,Entire home,160,8,46,4.1,204
+261,3945,Chicago,Private room,497,10,122,3.4,363
+262,4165,New York,Private room,385,2,158,3.1,267
+263,4567,New York,Shared room,465,6,147,2.6,343
+264,3043,Dallas,Shared room,67,10,115,5.0,326
+265,1754,Los Angeles,Private room,462,7,142,4.6,184
+266,4257,New York,Shared room,75,8,284,4.2,146
+267,3458,Los Angeles,Private room,244,9,28,4.6,7
+268,4305,Los Angeles,Shared room,189,4,78,2.8,48
+269,3357,Dallas,Shared room,430,4,9,2.6,113
+270,3669,New York,Shared room,218,8,146,3.9,287
+271,2570,Los Angeles,Shared room,166,4,247,3.1,127
+272,1935,Los Angeles,Shared room,288,6,264,3.5,141
+273,3340,Dallas,Entire home,424,10,284,4.9,111
+274,1287,Los Angeles,Shared room,344,9,227,4.9,6
+275,2036,Miami,Shared room,44,10,209,4.7,185
+276,2202,New York,Entire home,495,10,102,3.7,29
+277,4915,Chicago,Shared room,212,10,274,3.2,149
+278,4655,Los Angeles,Private room,218,5,81,3.1,249
+279,1338,Chicago,Private room,150,8,124,4.0,72
+280,2616,Los Angeles,Shared room,197,2,237,3.1,189
+281,3341,Miami,Entire home,343,1,259,2.6,136
+282,1990,Miami,Entire home,277,7,113,4.3,208
+283,1517,Chicago,Shared room,83,6,116,4.6,333
+284,4306,Chicago,Shared room,449,9,151,3.4,2
+285,3853,Miami,Shared room,484,9,249,4.4,28
+286,2109,Dallas,Entire home,88,10,183,2.8,204
+287,1615,Chicago,Shared room,403,7,39,3.0,256
+288,2745,Dallas,Private room,162,6,11,3.1,43
+289,4319,Los Angeles,Entire home,279,8,285,4.2,301
+290,1739,Miami,Entire home,39,7,141,3.8,87
+291,3425,New York,Private room,440,3,82,2.9,240
+292,1133,Miami,Private room,429,5,12,2.6,307
+293,2539,New York,Shared room,40,5,233,4.3,224
+294,4734,New York,Entire home,387,3,129,4.3,87
+295,3591,Miami,Private room,304,6,233,4.0,115
+296,3069,Chicago,Shared room,362,3,122,4.2,154
+297,4667,Miami,Private room,57,7,286,4.3,212
+298,1907,Los Angeles,Private room,263,2,67,4.8,118
+299,3896,Dallas,Entire home,102,9,153,3.9,302
+300,3069,Los Angeles,Shared room,271,4,151,4.7,331
+301,4431,Dallas,Private room,203,7,284,2.5,128
+302,1947,Los Angeles,Entire home,113,3,18,4.2,91
+303,2569,Chicago,Private room,421,3,17,3.9,322
+304,1797,New York,Shared room,55,9,146,4.0,45
+305,1372,New York,Private room,368,1,257,3.8,333
+306,3435,Dallas,Shared room,233,10,233,3.4,304
+307,2570,Miami,Entire home,435,4,98,4.8,33
+308,4218,New York,Private room,135,7,71,3.9,208
+309,3574,Miami,Private room,292,3,69,3.5,31
+310,1200,Chicago,Entire home,83,6,231,3.9,184
+311,2377,Miami,Entire home,357,2,19,2.8,32
+312,4263,Miami,Shared room,36,5,234,2.6,104
+313,4388,Los Angeles,Private room,359,4,177,4.0,329
+314,2591,Chicago,Entire home,415,1,80,3.7,245
+315,2492,Los Angeles,Entire home,214,5,173,4.8,144
+316,1613,Dallas,Shared room,450,3,82,2.9,133
+317,2717,New York,Private room,340,1,170,2.6,279
+318,3092,Chicago,Private room,440,2,145,3.7,261
+319,2707,Miami,Shared room,442,4,235,4.5,202
+320,3171,Los Angeles,Shared room,236,4,130,4.4,149
+321,3090,Chicago,Entire home,54,9,168,3.5,262
+322,1728,New York,Private room,239,5,18,3.0,194
+323,2797,New York,Shared room,292,6,184,3.6,310
+324,2380,Dallas,Private room,363,1,212,3.9,179
+325,4617,Los Angeles,Private room,395,3,201,4.1,196
+326,4338,New York,Shared room,322,10,156,4.5,352
+327,2300,Miami,Shared room,239,10,282,4.2,245
+328,1137,Chicago,Entire home,128,7,232,4.9,320
+329,4535,Dallas,Entire home,372,8,145,4.5,274
+330,4982,New York,Private room,420,1,188,4.8,87
+331,3905,New York,Private room,329,4,213,3.4,217
+332,1308,Los Angeles,Private room,301,1,255,3.7,108
+333,4103,New York,Entire home,491,1,41,3.2,109
+334,4699,Los Angeles,Private room,139,6,33,3.6,224
+335,2854,New York,Private room,378,8,293,2.6,52
+336,4442,Los Angeles,Entire home,334,9,146,3.2,47
+337,2576,Los Angeles,Shared room,203,1,191,4.2,118
+338,2020,Los Angeles,Shared room,50,6,136,4.7,314
+339,1458,Miami,Shared room,432,1,181,3.6,337
+340,2145,Miami,Entire home,221,7,197,4.2,112
+341,4890,Los Angeles,Shared room,442,8,85,3.1,253
+342,4635,Miami,Private room,335,9,296,3.8,75
+343,3983,Los Angeles,Private room,466,10,287,4.9,157
+344,1983,Miami,Private room,214,5,167,4.4,123
+345,3996,Chicago,Private room,429,2,102,4.0,144
+346,4100,Los Angeles,Shared room,309,8,193,4.8,338
+347,2510,New York,Entire home,342,6,259,4.7,157
+348,1293,Dallas,Entire home,351,8,0,4.8,336
+349,2440,Los Angeles,Entire home,499,9,152,4.7,116
+350,2368,Chicago,Shared room,333,2,57,3.5,44
+351,3348,New York,Entire home,311,1,113,3.2,55
+352,4678,Chicago,Private room,197,5,187,3.1,302
+353,2374,New York,Shared room,136,9,58,3.1,324
+354,2636,Chicago,Private room,104,2,235,4.0,335
+355,2468,Miami,Entire home,285,7,178,3.7,296
+356,4374,New York,Shared room,67,2,53,5.0,56
+357,2804,Chicago,Shared room,32,5,106,2.6,193
+358,4697,Miami,Entire home,306,8,153,2.5,355
+359,2573,New York,Private room,79,2,143,2.6,351
+360,2061,Miami,Entire home,186,10,98,3.2,350
+361,3493,Miami,Shared room,271,6,282,3.0,106
+362,3843,Dallas,Private room,242,3,94,4.5,241
+363,2492,Chicago,Shared room,158,5,250,2.6,108
+364,2541,Chicago,Entire home,178,3,155,4.2,111
+365,1925,Miami,Entire home,467,5,171,3.3,269
+366,2005,Miami,Entire home,52,4,239,4.6,153
+367,1392,New York,Entire home,297,6,290,2.7,70
+368,2498,New York,Entire home,355,4,116,4.9,280
+369,3848,Dallas,Entire home,387,8,16,3.8,119
+370,2334,Miami,Private room,117,3,293,4.9,248
+371,2107,Miami,Private room,443,3,34,4.8,195
+372,1107,Dallas,Private room,184,1,169,3.7,3
+373,4364,Dallas,Shared room,181,7,166,2.8,362
+374,4543,Los Angeles,Entire home,331,4,225,4.0,93
+375,3431,Los Angeles,Private room,340,6,285,2.8,174
+376,2603,Dallas,Entire home,352,7,165,3.1,320
+377,1222,New York,Shared room,207,7,172,4.8,317
+378,1448,Los Angeles,Private room,441,7,100,4.9,326
+379,3818,Chicago,Private room,93,1,236,4.8,0
+380,1963,Chicago,Entire home,52,3,187,4.1,87
+381,2694,New York,Entire home,280,10,102,4.7,8
+382,2227,Chicago,Private room,244,8,217,4.7,111
+383,2097,Chicago,Private room,339,4,34,2.6,274
+384,3574,New York,Entire home,192,5,217,4.8,280
+385,3507,Los Angeles,Entire home,423,9,37,3.4,145
+386,1970,Miami,Entire home,222,9,22,3.9,163
+387,3852,Dallas,Shared room,303,5,43,3.9,337
+388,4740,Los Angeles,Entire home,114,10,118,4.0,269
+389,1163,Los Angeles,Private room,207,10,39,3.6,293
+390,1345,Chicago,Private room,189,9,58,3.5,154
+391,4896,Dallas,Entire home,177,1,26,2.8,158
+392,4942,Chicago,Private room,441,10,69,3.6,201
+393,1909,Miami,Shared room,46,9,69,4.8,196
+394,2905,Dallas,Private room,236,2,87,4.9,214
+395,4475,Miami,Shared room,344,1,21,2.7,106
+396,1323,Los Angeles,Entire home,36,3,152,4.0,203
+397,2659,Los Angeles,Private room,136,4,287,3.2,92
+398,3028,Miami,Shared room,244,2,28,4.6,107
+399,3327,Miami,Shared room,363,8,165,3.1,70
+400,1063,Chicago,Entire home,400,7,50,2.6,160
+401,4162,Dallas,Entire home,115,7,129,3.5,94
+402,4961,Miami,Entire home,294,5,115,4.9,144
+403,4578,Los Angeles,Shared room,59,10,83,3.6,152
+404,1353,Miami,Entire home,99,9,197,4.3,293
+405,1464,Dallas,Entire home,206,6,102,3.2,83
+406,4130,Chicago,Private room,494,10,216,4.6,239
+407,4964,Chicago,Entire home,377,4,158,3.8,23
+408,1284,Chicago,Entire home,231,2,76,3.1,362
+409,4477,Dallas,Private room,345,2,263,3.3,232
+410,1773,Miami,Shared room,321,4,297,4.4,70
+411,4506,Los Angeles,Entire home,418,5,274,2.5,84
+412,2937,Dallas,Shared room,138,7,52,4.4,258
+413,1856,Miami,Entire home,443,10,257,3.6,193
+414,4971,Los Angeles,Entire home,107,7,229,3.2,111
+415,1052,Los Angeles,Entire home,390,9,118,4.6,55
+416,4645,Los Angeles,Shared room,375,10,136,4.8,68
+417,4784,Dallas,Private room,338,8,197,5.0,208
+418,4152,Chicago,Entire home,90,7,167,2.9,340
+419,2906,Chicago,Shared room,424,4,29,4.3,218
+420,2076,Dallas,Entire home,119,8,179,2.8,291
+421,3525,Los Angeles,Shared room,34,10,95,2.7,333
+422,1241,Miami,Shared room,426,9,166,4.9,139
+423,1524,Dallas,Entire home,196,10,234,4.9,64
+424,2753,Dallas,Entire home,377,2,230,3.1,328
+425,1633,Chicago,Private room,488,1,86,4.6,340
+426,4259,Los Angeles,Entire home,224,2,146,3.5,175
+427,2600,New York,Private room,159,9,235,3.8,176
+428,3933,New York,Private room,314,2,143,2.7,221
+429,2548,New York,Shared room,318,4,258,4.1,263
+430,1953,Dallas,Shared room,438,3,137,3.2,131
+431,1330,New York,Entire home,336,4,135,3.4,340
+432,1621,Chicago,Entire home,449,5,173,4.5,161
+433,2008,Chicago,Private room,286,4,87,2.6,66
+434,2156,Chicago,Entire home,151,7,99,4.8,77
+435,4368,New York,Entire home,272,2,15,2.8,131
+436,3403,Los Angeles,Shared room,100,5,230,3.7,311
+437,1726,Miami,Shared room,42,2,61,4.6,166
+438,3114,Los Angeles,Private room,151,2,43,2.9,323
+439,3337,Dallas,Entire home,320,1,257,3.2,346
+440,1234,New York,Shared room,468,6,289,3.1,74
+441,4789,Miami,Shared room,299,4,58,2.9,65
+442,4396,Miami,Private room,180,4,201,4.9,122
+443,1361,Los Angeles,Entire home,242,5,159,2.5,252
+444,4063,Dallas,Entire home,247,9,275,4.6,105
+445,4026,New York,Shared room,345,7,147,2.9,46
+446,3343,New York,Entire home,332,10,252,4.8,75
+447,3538,Los Angeles,Shared room,254,10,251,4.6,82
+448,4943,New York,Shared room,117,5,203,3.3,311
+449,4129,Chicago,Shared room,149,1,130,4.7,326
+450,1672,New York,Private room,348,9,241,3.1,298
+451,3146,Dallas,Entire home,224,1,15,2.9,38
+452,1584,Chicago,Private room,301,3,127,4.8,26
+453,2877,Los Angeles,Entire home,395,6,219,4.4,90
+454,2058,Chicago,Entire home,453,5,193,4.9,208
+455,4832,New York,Shared room,499,2,237,4.9,333
+456,1458,Dallas,Shared room,229,6,273,3.9,358
+457,2225,Dallas,Shared room,108,4,224,3.4,45
+458,4227,New York,Shared room,322,1,254,4.1,139
+459,3244,Dallas,Shared room,251,4,273,4.4,23
+460,3713,Los Angeles,Shared room,331,1,208,2.8,287
+461,3330,New York,Entire home,382,2,161,2.8,210
+462,1203,Miami,Entire home,471,5,216,2.6,10
+463,3047,New York,Shared room,86,5,66,4.6,52
+464,2672,Miami,Private room,116,4,116,2.6,37
+465,2328,Miami,Private room,68,1,91,2.6,177
+466,4598,Miami,Private room,483,7,188,3.9,123
+467,1169,Los Angeles,Entire home,304,10,282,3.2,199
+468,3448,Dallas,Private room,74,4,93,2.7,89
+469,2721,Dallas,Entire home,264,8,275,5.0,93
+470,2965,New York,Shared room,298,4,146,4.8,177
+471,1468,Chicago,Private room,140,4,90,2.6,251
+472,4151,Los Angeles,Entire home,299,9,148,3.9,345
+473,2125,New York,Shared room,286,3,91,3.9,209
+474,2866,Los Angeles,Entire home,439,7,28,4.6,61
+475,4753,Chicago,Private room,301,5,7,4.5,356
+476,4635,Dallas,Shared room,414,4,180,3.3,364
+477,2053,Miami,Shared room,387,2,148,2.8,233
+478,4493,Dallas,Private room,265,2,278,4.7,105
+479,3919,New York,Entire home,471,10,23,4.3,338
+480,4277,New York,Private room,119,6,130,3.2,218
+481,4791,New York,Entire home,437,9,89,3.1,231
+482,4122,Chicago,Private room,499,4,147,3.1,124
+483,2836,Dallas,Private room,342,8,40,3.6,133
+484,3340,Miami,Private room,277,1,259,3.0,37
+485,4044,Chicago,Private room,447,9,79,2.8,112
+486,4279,New York,Shared room,362,5,5,4.7,69
+487,4256,New York,Entire home,200,10,298,2.8,264
+488,4961,Los Angeles,Shared room,481,3,16,5.0,54
+489,1828,Dallas,Private room,42,4,215,4.8,303
+490,1839,Los Angeles,Shared room,260,3,68,3.2,64
+491,1209,New York,Entire home,66,6,266,5.0,133
+492,3207,Chicago,Private room,316,1,172,3.3,332
+493,2921,New York,Entire home,120,4,210,2.9,297
+494,1384,New York,Shared room,441,6,182,4.9,8
+495,3646,New York,Shared room,226,5,279,2.5,310
+496,2163,Miami,Private room,290,5,224,2.6,240
+497,1597,Los Angeles,Shared room,206,9,165,2.9,92
+498,1925,Chicago,Entire home,456,1,14,2.5,182
+499,4885,Miami,Private room,294,5,69,4.0,265
+500,2601,Dallas,Private room,377,8,28,4.5,293
+501,4551,Dallas,Entire home,260,8,158,3.7,119
+502,2775,Miami,Entire home,264,8,235,2.6,20
+503,1400,Los Angeles,Entire home,85,9,219,2.9,111
+504,1674,Miami,Shared room,362,4,112,3.9,281
+505,1797,New York,Shared room,180,9,149,2.7,259
+506,2970,Chicago,Private room,390,8,49,3.0,210
+507,2336,Dallas,Shared room,406,4,127,2.6,261
+508,2975,Miami,Private room,262,6,152,4.0,216
+509,4601,Los Angeles,Shared room,206,8,99,3.1,166
+510,1553,Miami,Entire home,155,7,159,4.6,58
+511,2694,Chicago,Entire home,446,8,98,4.4,93
+512,1735,Chicago,Shared room,117,10,260,4.3,236
+513,1089,Los Angeles,Shared room,214,1,158,3.3,298
+514,3769,New York,Private room,90,10,104,3.1,171
+515,2142,Miami,Shared room,77,6,186,3.9,232
+516,2846,Miami,Entire home,136,6,265,3.3,225
+517,2524,Chicago,Entire home,422,5,195,3.8,359
+518,3472,Miami,Private room,392,9,37,3.7,20
+519,2776,Miami,Entire home,471,7,14,3.4,314
+520,3833,New York,Entire home,336,10,248,3.2,182
+521,1321,Dallas,Private room,117,1,122,4.7,151
+522,3390,Chicago,Private room,87,7,95,3.5,1
+523,3847,Miami,Private room,391,9,171,4.1,45
+524,2193,Dallas,Shared room,444,10,148,3.2,65
+525,3441,New York,Private room,447,7,116,3.6,3
+526,3676,Miami,Shared room,490,7,123,4.3,57
+527,1379,Dallas,Entire home,405,3,158,4.5,32
+528,3064,New York,Shared room,242,2,191,4.9,78
+529,1421,Los Angeles,Entire home,210,9,82,3.8,199
+530,3482,Los Angeles,Private room,126,7,112,2.8,106
+531,3283,Los Angeles,Private room,86,10,18,3.2,14
+532,4394,Los Angeles,Shared room,152,7,290,4.4,166
+533,4331,Miami,Entire home,356,1,162,2.8,220
+534,3737,Los Angeles,Entire home,199,1,2,3.7,17
+535,4165,Chicago,Private room,196,6,196,4.0,50
+536,4991,Miami,Entire home,68,5,178,4.9,337
+537,1197,Chicago,Shared room,336,2,295,4.8,307
+538,4780,New York,Private room,454,10,58,4.7,10
+539,2196,Chicago,Entire home,37,1,208,3.2,72
+540,2661,Dallas,Private room,394,3,178,4.6,285
+541,2542,New York,Shared room,212,5,107,2.7,324
+542,2940,Miami,Private room,295,9,92,2.5,15
+543,3442,New York,Entire home,296,7,97,4.5,227
+544,4415,Dallas,Entire home,153,7,158,4.7,242
+545,3961,Los Angeles,Private room,415,7,178,3.2,362
+546,3208,Los Angeles,Entire home,500,1,270,3.6,0
+547,4239,New York,Entire home,360,5,256,2.5,232
+548,1294,Los Angeles,Shared room,221,2,296,4.8,67
+549,4002,Los Angeles,Shared room,73,7,32,4.2,21
+550,3234,Dallas,Private room,456,7,128,3.0,101
+551,4285,Chicago,Private room,166,2,89,4.3,273
+552,3380,New York,Private room,139,1,184,2.7,255
+553,2822,New York,Entire home,40,10,21,2.9,114
+554,2775,New York,Entire home,110,1,121,4.3,241
+555,3015,Chicago,Entire home,105,9,268,3.7,280
+556,1911,Dallas,Shared room,88,3,283,4.9,144
+557,1976,Los Angeles,Entire home,457,9,21,2.8,357
+558,4429,New York,Shared room,457,6,154,4.1,158
+559,3501,Chicago,Shared room,177,5,89,3.0,260
+560,1273,Los Angeles,Shared room,420,2,257,4.1,105
+561,2964,Los Angeles,Private room,136,8,75,3.9,303
+562,1750,New York,Shared room,300,5,39,3.2,330
+563,2333,Chicago,Shared room,203,3,284,3.8,68
+564,3679,Los Angeles,Entire home,144,1,41,3.5,104
+565,3856,Miami,Entire home,428,6,49,4.5,18
+566,3598,Chicago,Shared room,251,3,54,3.9,356
+567,1562,Los Angeles,Entire home,120,4,77,3.4,15
+568,4900,Chicago,Private room,89,2,229,3.8,96
+569,4570,Chicago,Shared room,127,4,106,4.2,30
+570,1021,New York,Private room,265,7,95,3.5,124
+571,3469,Chicago,Shared room,394,8,178,2.7,134
+572,2128,Dallas,Private room,210,4,72,3.9,235
+573,4612,Chicago,Entire home,410,4,206,4.2,38
+574,3827,Dallas,Entire home,254,2,97,3.7,312
+575,1324,Los Angeles,Entire home,63,6,263,3.2,276
+576,4140,New York,Shared room,152,7,198,2.7,129
+577,4799,Dallas,Shared room,443,7,65,3.9,173
+578,3386,New York,Entire home,251,8,38,3.4,41
+579,4669,New York,Entire home,169,6,47,3.2,269
+580,2705,Chicago,Shared room,149,8,191,5.0,320
+581,1160,Dallas,Shared room,388,5,300,2.8,11
+582,2137,Miami,Private room,384,3,129,3.5,333
+583,2422,Los Angeles,Private room,161,2,261,4.6,166
+584,3365,New York,Private room,75,6,110,3.6,95
+585,3326,Dallas,Private room,466,10,15,4.2,112
+586,3605,Los Angeles,Private room,119,8,203,3.8,177
+587,1714,New York,Private room,96,7,196,4.1,127
+588,3379,Miami,Shared room,122,4,191,5.0,281
+589,2845,Chicago,Shared room,63,5,109,3.3,363
+590,2057,Miami,Private room,290,9,129,3.9,227
+591,3675,New York,Entire home,202,2,271,3.4,197
+592,1404,Dallas,Private room,408,3,48,3.6,265
+593,4426,Los Angeles,Entire home,319,10,222,4.9,221
+594,2025,New York,Shared room,244,9,127,3.6,185
+595,3911,Los Angeles,Shared room,468,9,86,4.0,159
+596,3724,Chicago,Private room,412,9,194,4.2,131
+597,4829,Miami,Private room,303,2,277,4.4,142
+598,4803,Dallas,Entire home,455,8,165,4.5,291
+599,4070,Miami,Private room,446,7,280,4.1,27
+600,4013,Miami,Private room,174,7,1,2.9,365
+601,2713,Los Angeles,Entire home,484,1,245,2.8,83
+602,4556,Dallas,Entire home,314,8,135,3.8,92
+603,3643,New York,Shared room,144,4,200,4.8,230
+604,4221,Los Angeles,Private room,458,3,146,3.2,74
+605,4459,Los Angeles,Private room,359,9,288,2.6,276
+606,4758,Dallas,Entire home,468,7,160,4.8,335
+607,3855,Chicago,Private room,319,10,132,2.5,238
+608,2503,Los Angeles,Private room,217,6,92,4.1,148
+609,2806,Miami,Shared room,264,3,189,3.7,160
+610,1842,New York,Shared room,113,5,60,4.2,210
+611,2310,New York,Entire home,237,5,109,2.8,288
+612,2729,Chicago,Shared room,480,4,207,2.6,356
+613,1626,New York,Entire home,165,1,90,2.9,156
+614,1478,New York,Entire home,94,1,180,4.4,242
+615,1643,Dallas,Shared room,167,8,125,3.3,255
+616,1151,New York,Private room,271,8,43,2.6,27
+617,4663,Los Angeles,Entire home,84,1,222,3.3,8
+618,4779,Los Angeles,Shared room,448,7,5,5.0,311
+619,3057,Chicago,Entire home,446,1,135,4.1,337
+620,1934,Dallas,Entire home,477,10,110,4.3,195
+621,3131,Chicago,Entire home,493,1,203,4.0,3
+622,2408,New York,Entire home,217,6,113,3.8,42
+623,3723,Chicago,Entire home,358,7,201,4.2,228
+624,3152,Dallas,Private room,251,5,15,4.4,329
+625,2603,Miami,Entire home,423,4,128,3.9,234
+626,1650,Miami,Entire home,199,9,88,3.9,144
+627,2500,Dallas,Entire home,154,10,75,3.4,20
+628,3822,New York,Entire home,283,3,112,3.4,40
+629,4435,Dallas,Shared room,415,10,219,3.7,345
+630,2185,Los Angeles,Entire home,497,3,197,4.1,363
+631,3308,Dallas,Private room,238,7,130,3.6,365
+632,2634,Los Angeles,Entire home,111,6,63,2.8,147
+633,3821,Chicago,Private room,413,7,146,2.6,299
+634,3667,Dallas,Private room,352,6,43,3.4,155
+635,3950,Chicago,Shared room,408,4,299,4.6,99
+636,1290,Miami,Entire home,150,3,163,2.9,5
+637,1425,New York,Entire home,138,1,115,2.8,142
+638,2708,Chicago,Private room,135,7,291,2.8,204
+639,3705,Chicago,Private room,337,2,114,2.6,279
+640,2068,Los Angeles,Entire home,421,2,122,4.0,60
+641,3130,Dallas,Shared room,375,6,40,2.7,140
+642,4615,Miami,Private room,239,10,100,4.1,216
+643,1662,Chicago,Private room,171,2,144,3.2,247
+644,2271,Los Angeles,Entire home,121,8,212,2.6,32
+645,1551,Dallas,Entire home,83,5,1,2.6,20
+646,1855,Dallas,Shared room,68,4,98,2.9,207
+647,4551,Dallas,Entire home,454,7,50,4.6,166
+648,3371,Miami,Shared room,86,6,158,4.6,138
+649,4313,Chicago,Entire home,381,3,183,2.5,362
+650,1915,Chicago,Shared room,323,10,232,3.0,293
+651,4423,Chicago,Entire home,259,10,228,5.0,231
+652,2525,Miami,Shared room,97,6,64,3.8,192
+653,2998,Dallas,Private room,157,5,142,4.1,237
+654,2464,Chicago,Shared room,478,8,290,4.2,194
+655,1230,Miami,Shared room,368,7,214,4.8,241
+656,1851,Chicago,Entire home,493,8,254,3.2,98
+657,3320,New York,Entire home,400,2,131,3.0,207
+658,1130,Chicago,Shared room,96,10,287,5.0,338
+659,3213,Los Angeles,Private room,172,2,291,4.0,227
+660,4402,Miami,Entire home,447,10,74,2.9,169
+661,3745,Miami,Private room,153,4,246,3.7,142
+662,3700,Los Angeles,Private room,348,1,41,4.2,54
+663,4379,Los Angeles,Private room,166,3,96,4.4,279
+664,4805,Miami,Entire home,335,2,96,4.0,122
+665,1302,Los Angeles,Entire home,94,2,243,2.7,36
+666,2442,New York,Shared room,489,2,17,4.6,121
+667,2468,Los Angeles,Shared room,332,9,104,3.1,333
+668,4119,New York,Entire home,149,10,85,4.8,283
+669,3943,Los Angeles,Entire home,132,9,117,4.7,233
+670,4446,Los Angeles,Private room,290,9,8,4.5,5
+671,2732,Los Angeles,Shared room,96,9,20,2.9,285
+672,3592,Miami,Shared room,381,3,76,4.5,237
+673,2278,New York,Entire home,366,4,172,2.8,333
+674,2415,Dallas,Shared room,334,2,132,4.9,166
+675,4371,Miami,Entire home,168,10,178,4.8,311
+676,2321,Miami,Entire home,374,8,217,3.8,63
+677,2994,Miami,Entire home,286,10,77,4.2,173
+678,2405,New York,Entire home,249,9,51,3.0,70
+679,1585,Los Angeles,Entire home,244,8,187,3.8,284
+680,3941,Chicago,Shared room,253,7,77,3.0,66
+681,4536,Chicago,Private room,66,3,18,3.2,275
+682,2613,New York,Entire home,245,3,5,2.6,201
+683,3698,Los Angeles,Private room,129,2,18,3.5,260
+684,4586,Chicago,Entire home,500,2,272,4.4,360
+685,3597,Miami,Private room,437,10,133,3.7,315
+686,1768,Dallas,Entire home,468,7,172,4.9,289
+687,3624,Chicago,Shared room,482,7,225,2.9,95
+688,4429,New York,Entire home,356,2,83,4.2,324
+689,3288,Miami,Private room,479,6,143,4.2,95
+690,2719,Miami,Shared room,185,3,108,4.4,300
+691,3616,Dallas,Shared room,75,6,147,3.6,209
+692,4579,Miami,Private room,92,5,58,2.8,97
+693,4160,Los Angeles,Entire home,233,7,277,3.1,313
+694,3822,Chicago,Private room,158,6,25,3.9,225
+695,1038,Chicago,Private room,185,1,35,4.4,22
+696,4365,Miami,Entire home,431,7,129,3.1,204
+697,3853,Chicago,Entire home,93,3,38,2.8,283
+698,2210,Dallas,Entire home,264,2,215,4.5,29
+699,3751,Dallas,Shared room,473,3,142,4.1,280
+700,3493,Chicago,Private room,360,1,148,3.6,271
+701,4991,Dallas,Shared room,177,9,56,4.3,146
+702,4732,Los Angeles,Private room,244,2,193,3.0,335
+703,4098,Miami,Shared room,442,9,153,3.8,155
+704,1109,Chicago,Entire home,436,4,219,4.4,363
+705,2503,Miami,Private room,234,7,25,4.9,153
+706,2699,Chicago,Shared room,401,5,49,4.1,52
+707,1914,Dallas,Shared room,174,10,168,4.5,157
+708,3407,New York,Entire home,370,2,289,2.7,193
+709,2724,Dallas,Entire home,405,3,169,3.5,315
+710,3210,Chicago,Shared room,90,7,235,3.2,140
+711,2385,New York,Private room,281,6,56,4.0,114
+712,3418,Chicago,Entire home,46,4,104,4.5,332
+713,1871,Dallas,Shared room,303,6,33,4.8,240
+714,3049,Miami,Shared room,458,10,107,3.1,207
+715,3111,Los Angeles,Private room,125,5,204,5.0,77
+716,3955,Dallas,Entire home,118,6,161,4.5,234
+717,4311,New York,Shared room,147,2,186,4.3,237
+718,2037,Miami,Shared room,36,2,251,3.8,295
+719,2321,Miami,Shared room,186,9,13,2.7,246
+720,4196,Dallas,Shared room,189,6,222,3.1,204
+721,1805,Miami,Shared room,335,7,25,3.5,108
+722,4523,Dallas,Entire home,259,2,131,3.5,152
+723,4533,New York,Private room,124,2,221,3.9,72
+724,2236,New York,Shared room,102,9,174,3.4,157
+725,4631,Chicago,Shared room,352,6,41,3.8,189
+726,4310,New York,Shared room,329,7,125,4.6,305
+727,2182,Los Angeles,Private room,311,8,50,4.5,208
+728,4834,New York,Entire home,113,5,206,3.7,71
+729,4278,Chicago,Private room,41,5,116,2.7,140
+730,2657,Los Angeles,Shared room,280,3,207,4.6,192
+731,4508,Los Angeles,Entire home,307,9,202,2.5,316
+732,2230,Los Angeles,Entire home,321,8,1,4.6,6
+733,1130,Chicago,Private room,99,7,17,3.9,228
+734,3905,Chicago,Entire home,66,3,24,4.5,204
+735,1032,Los Angeles,Entire home,185,10,124,4.2,194
+736,4940,Chicago,Private room,106,4,128,4.2,311
+737,1902,New York,Private room,495,2,21,4.4,167
+738,1921,Chicago,Shared room,297,5,224,3.7,39
+739,1746,Los Angeles,Shared room,90,6,66,3.1,140
+740,2892,Dallas,Private room,421,5,87,3.7,263
+741,2525,Dallas,Shared room,268,7,218,4.4,93
+742,3274,Chicago,Private room,165,8,107,3.8,20
+743,4600,Miami,Private room,448,9,69,2.7,343
+744,4128,New York,Shared room,326,4,270,3.6,11
+745,1959,New York,Private room,214,6,93,3.8,50
+746,4710,New York,Private room,188,3,237,5.0,280
+747,3818,Chicago,Shared room,198,5,45,4.3,52
+748,4266,Dallas,Shared room,442,7,177,3.1,93
+749,2296,Miami,Shared room,459,10,194,2.8,38
+750,3753,New York,Entire home,371,7,284,4.3,231
+751,2177,Miami,Entire home,459,2,265,3.8,101
+752,4635,Miami,Entire home,228,8,137,3.6,156
+753,2347,New York,Entire home,175,7,75,3.9,10
+754,2180,Chicago,Entire home,140,1,252,4.5,30
+755,3770,Dallas,Shared room,298,2,273,4.2,297
+756,1838,Los Angeles,Entire home,288,7,263,3.0,353
+757,1840,New York,Private room,204,4,269,3.3,87
+758,2332,Miami,Shared room,403,4,86,2.7,350
+759,4352,Miami,Private room,31,2,208,2.6,18
+760,2372,Los Angeles,Shared room,233,9,207,4.7,26
+761,4307,Chicago,Private room,199,9,149,3.2,285
+762,3555,Miami,Private room,172,5,60,4.5,141
+763,4242,Miami,Entire home,433,10,214,2.8,21
+764,4608,Los Angeles,Entire home,148,10,46,4.0,93
+765,2238,Chicago,Private room,74,1,46,4.2,160
+766,1847,New York,Entire home,286,8,219,4.9,192
+767,4000,Chicago,Private room,337,2,59,4.4,173
+768,2783,New York,Entire home,406,5,133,4.8,332
+769,1287,Los Angeles,Entire home,159,6,172,2.8,52
+770,4989,New York,Private room,333,7,26,4.9,298
+771,1855,New York,Entire home,381,10,188,4.1,153
+772,1014,New York,Private room,463,2,68,3.6,90
+773,4738,New York,Private room,456,2,17,3.2,247
+774,3363,Dallas,Entire home,305,6,95,4.5,53
+775,3917,Dallas,Shared room,75,8,244,4.1,44
+776,4063,Los Angeles,Entire home,396,8,112,4.0,135
+777,4745,Los Angeles,Shared room,69,4,268,2.8,134
+778,2572,New York,Private room,41,2,86,4.6,294
+779,2030,Miami,Private room,369,5,81,4.1,204
+780,4682,Miami,Entire home,419,3,60,4.0,89
+781,1841,Chicago,Shared room,393,4,17,4.1,275
+782,1721,Chicago,Entire home,157,8,255,2.7,45
+783,4251,Chicago,Shared room,486,5,165,4.4,164
+784,4475,New York,Entire home,379,2,145,4.1,365
+785,1298,Dallas,Entire home,225,9,281,4.9,259
+786,4219,Los Angeles,Entire home,401,3,184,2.9,169
+787,2195,New York,Shared room,146,7,5,4.1,24
+788,4589,New York,Shared room,413,7,161,4.5,194
+789,1027,Los Angeles,Shared room,38,2,233,2.7,30
+790,3702,New York,Private room,69,10,258,4.5,105
+791,4558,Dallas,Shared room,287,7,90,3.1,324
+792,2261,Los Angeles,Entire home,424,1,20,3.9,32
+793,4611,Chicago,Entire home,483,6,182,4.7,113
+794,3422,Miami,Entire home,302,8,64,4.4,334
+795,1848,New York,Entire home,177,5,11,4.8,31
+796,3208,Chicago,Shared room,360,3,45,3.9,104
+797,1982,Chicago,Entire home,347,2,13,3.5,93
+798,4300,Los Angeles,Shared room,271,9,175,3.5,323
+799,2269,New York,Shared room,307,3,133,3.0,130
+800,4429,Dallas,Private room,190,2,298,3.9,331
+801,3706,New York,Entire home,342,10,231,3.1,177
+802,2275,Los Angeles,Private room,113,2,54,4.6,199
+803,4981,Dallas,Private room,114,8,171,2.8,61
+804,4018,New York,Entire home,327,3,240,4.1,83
+805,2731,Dallas,Shared room,211,3,246,4.8,83
+806,2246,Dallas,Private room,447,6,145,4.2,260
+807,2533,Los Angeles,Shared room,445,1,153,3.0,245
+808,4366,Chicago,Private room,74,10,198,4.4,275
+809,2619,Dallas,Shared room,426,6,43,4.0,341
+810,1320,New York,Shared room,244,9,220,4.0,10
+811,2085,Chicago,Private room,403,7,80,3.0,362
+812,2577,Dallas,Private room,457,3,13,2.9,190
+813,4402,Chicago,Entire home,428,10,256,3.2,306
+814,3254,Chicago,Entire home,410,8,266,3.8,40
+815,1141,New York,Entire home,456,9,61,2.7,264
+816,3624,Dallas,Entire home,111,1,241,4.6,20
+817,1772,New York,Private room,52,4,109,2.7,248
+818,1970,Dallas,Entire home,111,4,150,4.6,162
+819,3406,Dallas,Shared room,292,4,11,2.7,146
+820,3794,New York,Shared room,456,2,4,2.5,68
+821,4974,Dallas,Private room,115,6,275,4.6,188
+822,3651,Los Angeles,Entire home,54,2,182,4.1,45
+823,2030,Los Angeles,Private room,490,10,225,4.2,10
+824,4880,Los Angeles,Entire home,202,2,191,2.6,59
+825,1865,New York,Entire home,231,5,212,3.7,91
+826,2365,New York,Private room,421,9,185,2.9,5
+827,2889,Chicago,Entire home,133,7,124,3.0,45
+828,3718,Chicago,Shared room,375,9,157,4.5,93
+829,2821,New York,Shared room,196,1,255,3.0,250
+830,2827,Dallas,Entire home,428,1,270,2.5,325
+831,2264,Miami,Shared room,365,2,164,3.6,293
+832,2575,Los Angeles,Entire home,263,4,52,2.7,107
+833,3866,New York,Entire home,461,7,163,2.9,59
+834,2483,Dallas,Entire home,101,5,282,4.7,143
+835,2540,New York,Entire home,238,5,127,3.8,38
+836,3529,Dallas,Entire home,361,8,69,4.4,346
+837,4269,New York,Entire home,331,5,170,4.5,227
+838,2604,Chicago,Shared room,434,2,279,4.4,145
+839,2584,Miami,Entire home,447,4,147,4.5,178
+840,4901,Miami,Shared room,279,4,231,3.9,58
+841,3495,Chicago,Entire home,30,2,139,3.6,218
+842,3303,Los Angeles,Private room,300,4,11,3.8,100
+843,2343,Chicago,Entire home,300,2,279,3.5,295
+844,1150,Los Angeles,Shared room,147,6,90,2.8,255
+845,3356,Chicago,Shared room,355,5,254,4.5,23
+846,3314,Chicago,Shared room,62,8,93,4.0,46
+847,3929,Chicago,Shared room,111,7,276,3.9,344
+848,4434,Los Angeles,Entire home,101,6,150,2.8,11
+849,3035,Chicago,Entire home,159,9,224,4.3,40
+850,2030,New York,Entire home,277,9,78,3.7,365
+851,2375,Dallas,Shared room,474,6,8,3.1,301
+852,1091,Chicago,Shared room,400,8,7,4.2,326
+853,1429,Miami,Shared room,268,2,113,3.5,339
+854,1105,Miami,Shared room,45,2,156,2.6,347
+855,4909,Dallas,Entire home,444,6,274,2.6,364
+856,1842,Miami,Entire home,253,4,186,2.8,215
+857,2341,Los Angeles,Private room,311,3,92,2.6,191
+858,4911,Los Angeles,Shared room,51,4,271,3.0,238
+859,3064,Miami,Entire home,293,4,187,3.6,271
+860,2466,New York,Shared room,469,2,127,3.8,137
+861,3586,Miami,Entire home,363,9,295,3.6,288
+862,3469,Chicago,Shared room,186,2,153,4.2,124
+863,1547,Chicago,Shared room,138,9,91,2.9,62
+864,1538,Chicago,Private room,266,4,273,3.3,151
+865,4189,Chicago,Entire home,219,2,66,3.6,76
+866,4221,New York,Entire home,235,1,279,3.2,21
+867,3373,Miami,Shared room,495,2,296,2.8,97
+868,3863,Dallas,Entire home,485,10,147,3.0,19
+869,2705,Chicago,Private room,283,4,102,3.6,128
+870,2105,Miami,Entire home,206,9,46,4.7,256
+871,4923,Dallas,Private room,309,1,29,3.4,303
+872,4119,Chicago,Private room,324,8,140,4.7,225
+873,2922,Miami,Private room,450,8,211,3.3,336
+874,4801,Miami,Shared room,406,6,46,2.9,92
+875,2946,Chicago,Entire home,254,9,51,4.9,199
+876,3063,Dallas,Private room,291,2,68,4.3,213
+877,3410,Miami,Shared room,476,5,87,4.7,32
+878,4900,Dallas,Entire home,158,9,166,3.8,253
+879,1540,Miami,Shared room,420,3,255,3.4,98
+880,2232,Chicago,Shared room,265,1,2,4.6,336
+881,3466,Chicago,Entire home,169,6,121,4.8,290
+882,1397,New York,Private room,51,5,22,3.7,363
+883,4504,Chicago,Private room,115,4,285,3.6,348
+884,1877,New York,Shared room,118,6,226,3.8,111
+885,3687,Los Angeles,Entire home,463,3,291,3.1,318
+886,2538,New York,Entire home,145,8,197,3.9,195
+887,4280,Dallas,Private room,490,6,20,4.8,214
+888,3107,Los Angeles,Entire home,399,2,101,3.6,229
+889,2370,Los Angeles,Private room,186,2,245,3.5,45
+890,1985,Dallas,Entire home,425,8,268,2.6,152
+891,3158,Los Angeles,Shared room,114,2,160,3.4,325
+892,2813,Los Angeles,Entire home,435,8,198,3.1,287
+893,1681,Dallas,Shared room,119,10,5,4.6,123
+894,3587,Chicago,Shared room,128,8,42,3.8,298
+895,4060,Dallas,Entire home,72,2,149,3.5,117
+896,4114,Dallas,Entire home,289,9,180,3.8,102
+897,4573,Chicago,Entire home,102,4,181,2.7,96
+898,1465,Chicago,Entire home,460,3,58,4.1,252
+899,3885,Miami,Entire home,420,5,182,4.3,231
+900,2865,New York,Shared room,153,1,296,2.7,304
+901,1976,Chicago,Shared room,403,10,211,3.4,233
+902,4474,Miami,Private room,378,1,16,3.8,141
+903,2007,Chicago,Private room,35,10,135,3.9,211
+904,2378,Chicago,Private room,86,10,110,4.6,226
+905,4122,Dallas,Private room,434,8,296,4.6,130
+906,2458,New York,Private room,329,2,119,3.0,306
+907,1942,Chicago,Private room,190,10,199,2.8,91
+908,2664,Los Angeles,Shared room,122,7,109,2.6,252
+909,2453,Chicago,Entire home,44,4,262,3.3,349
+910,3707,Miami,Shared room,416,10,45,3.2,133
+911,1365,New York,Private room,195,8,120,4.3,157
+912,1040,Dallas,Shared room,389,3,190,3.8,180
+913,2526,Miami,Entire home,351,6,13,3.2,293
+914,4455,Chicago,Shared room,173,10,43,4.1,160
+915,4610,Miami,Private room,191,5,91,2.6,151
+916,1476,Dallas,Entire home,426,7,246,2.5,77
+917,4990,Los Angeles,Shared room,375,2,284,3.6,15
+918,3527,Dallas,Shared room,163,4,192,4.7,167
+919,4624,Chicago,Entire home,232,1,238,2.5,69
+920,2930,Los Angeles,Private room,454,3,187,4.6,191
+921,2577,New York,Shared room,477,6,60,4.6,288
+922,2865,New York,Shared room,419,8,76,4.1,64
+923,4183,Chicago,Private room,266,6,180,4.2,92
+924,1847,Dallas,Shared room,415,1,102,3.1,282
+925,2034,Miami,Entire home,143,7,0,3.5,331
+926,3010,Miami,Private room,276,2,225,3.6,175
+927,1283,Miami,Shared room,372,1,259,2.9,185
+928,1671,Chicago,Shared room,200,8,59,4.4,116
+929,1244,Dallas,Private room,309,1,37,2.5,22
+930,1310,Los Angeles,Shared room,479,5,256,4.6,137
+931,1010,Los Angeles,Shared room,120,8,83,4.9,320
+932,4460,Dallas,Private room,430,5,4,3.2,97
+933,3603,Dallas,Shared room,390,6,82,4.0,217
+934,3346,Chicago,Private room,394,3,11,4.5,228
+935,4232,Dallas,Private room,72,1,26,4.6,163
+936,2681,Dallas,Private room,250,6,250,2.7,108
+937,4679,Chicago,Entire home,375,9,4,3.3,97
+938,3161,Miami,Private room,235,10,162,3.1,314
+939,3242,New York,Private room,497,7,174,3.3,145
+940,1296,New York,Shared room,58,4,0,3.4,338
+941,4635,Los Angeles,Entire home,88,4,229,3.1,164
+942,4454,Chicago,Shared room,322,9,119,4.6,49
+943,4234,Miami,Private room,53,6,56,4.5,127
+944,2252,Chicago,Shared room,326,9,91,4.9,323
+945,4461,Miami,Entire home,115,3,262,4.1,176
+946,2205,New York,Shared room,98,8,286,4.9,351
+947,2540,New York,Shared room,292,2,114,4.7,107
+948,2614,New York,Entire home,187,3,125,3.4,87
+949,2059,New York,Private room,264,7,284,4.1,185
+950,1497,New York,Shared room,450,3,163,3.0,90
+951,3225,Miami,Entire home,468,1,215,3.6,37
+952,3719,Dallas,Shared room,477,3,157,2.8,3
+953,3731,New York,Private room,92,10,267,2.7,163
+954,1810,Los Angeles,Entire home,389,9,190,4.7,275
+955,1026,Dallas,Shared room,112,1,63,2.8,215
+956,2002,Dallas,Shared room,429,3,66,3.8,248
+957,4379,Chicago,Entire home,382,5,263,5.0,167
+958,4194,New York,Private room,476,3,45,4.4,275
+959,4414,Miami,Shared room,487,1,270,3.6,343
+960,4075,Dallas,Shared room,410,4,182,3.2,188
+961,4862,Los Angeles,Private room,160,6,138,3.6,330
+962,4900,Chicago,Shared room,295,1,112,4.6,56
+963,1581,New York,Private room,299,1,93,2.9,255
+964,3922,Miami,Entire home,450,4,286,2.6,282
+965,4687,New York,Shared room,165,3,91,3.6,357
+966,2118,Dallas,Entire home,477,2,282,3.8,97
+967,4059,Miami,Shared room,336,3,17,3.5,174
+968,2601,New York,Private room,206,10,106,4.8,202
+969,4328,Miami,Entire home,45,1,148,4.1,248
+970,2790,Miami,Entire home,158,10,76,3.3,29
+971,1556,New York,Shared room,100,5,287,3.5,69
+972,4972,New York,Entire home,307,5,100,4.6,359
+973,3928,New York,Shared room,448,10,285,3.3,176
+974,2767,Los Angeles,Private room,257,1,264,4.5,121
+975,1406,Dallas,Private room,119,10,95,4.3,100
+976,3502,Miami,Shared room,339,2,21,5.0,3
+977,1695,Los Angeles,Entire home,257,1,60,4.6,228
+978,3857,Los Angeles,Private room,200,3,126,2.5,317
+979,2759,Dallas,Shared room,215,6,32,4.6,363
+980,3094,Chicago,Entire home,438,4,167,4.8,327
+981,3160,Miami,Shared room,97,3,95,4.1,204
+982,1127,Dallas,Entire home,236,3,255,3.9,228
+983,2132,Dallas,Private room,236,3,241,3.7,323
+984,3912,Chicago,Private room,45,6,281,2.8,99
+985,1459,Dallas,Shared room,116,5,288,2.9,172
+986,4795,Dallas,Private room,293,8,26,4.6,263
+987,3024,New York,Entire home,247,10,10,4.0,357
+988,3138,Chicago,Shared room,362,4,84,4.0,132
+989,4876,Miami,Entire home,488,3,267,2.6,146
+990,1997,Miami,Shared room,188,6,285,4.4,327
+991,1574,Miami,Shared room,125,8,297,4.2,26
+992,2059,Los Angeles,Entire home,482,8,204,4.3,264
+993,1787,Dallas,Private room,135,7,67,4.2,111
+994,2934,Los Angeles,Shared room,41,9,273,3.1,312
+995,3705,Chicago,Private room,438,2,105,3.9,39
+996,1547,Miami,Entire home,36,8,270,3.1,153
+997,4912,Miami,Shared room,446,2,194,4.7,127
+998,1586,Los Angeles,Shared room,244,9,110,4.5,59
+999,3067,Chicago,Shared room,194,8,17,3.6,77
+1000,2696,Dallas,Private room,132,9,67,2.7,85
+1001,4147,Dallas,Private room,131,8,297,4.1,32
+1002,4448,Chicago,Private room,326,1,86,3.9,134
+1003,3315,New York,Private room,329,3,111,4.9,133
+1004,2565,New York,Shared room,388,1,202,3.3,290
+1005,3399,New York,Entire home,173,6,105,3.1,143
+1006,4423,Dallas,Entire home,273,7,150,4.2,339
+1007,3264,Chicago,Private room,57,2,136,2.8,258
+1008,1857,Dallas,Entire home,222,3,168,4.8,151
+1009,4570,Dallas,Entire home,68,10,273,2.8,144
+1010,4078,New York,Private room,327,6,48,2.8,219
+1011,2686,Chicago,Entire home,113,1,102,4.3,66
+1012,4698,Miami,Entire home,331,6,189,4.4,158
+1013,1747,Dallas,Entire home,339,7,128,4.5,128
+1014,3449,New York,Shared room,228,9,260,3.9,303
+1015,1741,Miami,Shared room,351,4,178,3.1,17
+1016,3469,Chicago,Private room,312,2,73,3.5,277
+1017,1031,Chicago,Shared room,228,6,33,3.9,199
+1018,1420,Dallas,Private room,168,6,39,4.1,335
+1019,4922,Dallas,Entire home,225,5,8,4.6,95
+1020,3271,Los Angeles,Private room,381,7,60,4.0,292
+1021,1146,Miami,Private room,199,6,227,3.3,8
+1022,1759,Los Angeles,Entire home,30,9,270,3.9,95
+1023,2123,Chicago,Shared room,303,3,15,3.0,210
+1024,4740,Chicago,Shared room,78,4,60,4.2,148
+1025,3138,New York,Shared room,337,4,221,4.9,18
+1026,3015,New York,Entire home,365,2,241,3.2,113
+1027,3160,Dallas,Shared room,41,8,116,3.6,18
+1028,4468,Los Angeles,Private room,342,6,292,3.7,238
+1029,1241,Dallas,Entire home,243,1,238,3.4,346
+1030,3427,Dallas,Shared room,115,4,287,4.0,288
+1031,3007,Los Angeles,Entire home,423,8,26,4.0,97
+1032,2388,Dallas,Entire home,61,3,240,4.6,364
+1033,3005,Chicago,Private room,366,9,215,3.5,32
+1034,2750,Miami,Private room,348,3,260,3.9,88
+1035,2903,Chicago,Entire home,321,8,241,4.0,89
+1036,1917,Los Angeles,Private room,80,2,285,4.9,120
+1037,3302,Dallas,Shared room,30,4,167,4.4,62
+1038,3055,Miami,Entire home,204,3,193,4.4,12
+1039,1189,New York,Entire home,150,3,91,4.0,116
+1040,2193,New York,Private room,371,10,249,3.3,314
+1041,2640,Los Angeles,Entire home,123,7,123,3.9,310
+1042,4794,Dallas,Shared room,466,10,225,4.3,64
+1043,1233,Miami,Shared room,311,7,228,2.8,26
+1044,2862,Dallas,Private room,273,3,154,3.8,362
+1045,4444,Chicago,Entire home,393,8,34,4.7,118
+1046,4821,Chicago,Shared room,311,9,247,4.0,208
+1047,3516,New York,Entire home,209,2,72,4.0,271
+1048,3209,Miami,Private room,125,10,53,3.1,135
+1049,4991,Los Angeles,Private room,421,8,223,2.6,103
+1050,1467,Los Angeles,Private room,486,1,118,4.8,14
+1051,1969,New York,Private room,135,6,2,3.2,35
+1052,2487,Dallas,Private room,33,1,32,3.1,234
+1053,1901,Miami,Entire home,352,4,45,2.7,282
+1054,1122,Los Angeles,Shared room,437,8,228,4.7,61
+1055,2405,New York,Entire home,102,6,221,3.5,348
+1056,4390,Miami,Entire home,367,7,289,4.8,184
+1057,2009,Miami,Shared room,477,9,50,3.1,111
+1058,2522,Miami,Entire home,329,4,209,2.5,62
+1059,4060,Chicago,Entire home,266,3,151,4.5,62
+1060,1604,Los Angeles,Shared room,441,9,8,4.7,349
+1061,2500,Dallas,Shared room,330,6,239,2.8,86
+1062,1446,New York,Shared room,246,8,203,2.8,299
+1063,3471,Dallas,Private room,288,2,299,3.8,310
+1064,2808,New York,Shared room,88,1,217,3.2,191
+1065,4224,Dallas,Private room,435,9,41,4.3,326
+1066,3660,Miami,Shared room,188,7,189,2.5,228
+1067,1323,Chicago,Shared room,424,6,221,2.8,289
+1068,1661,New York,Entire home,48,7,77,4.9,105
+1069,4789,New York,Shared room,164,4,31,2.9,83
+1070,1333,Miami,Entire home,151,9,182,2.6,115
+1071,2019,Chicago,Shared room,235,10,163,4.1,214
+1072,2914,Chicago,Entire home,396,6,34,2.7,328
+1073,2749,New York,Shared room,60,2,286,2.7,252
+1074,3556,Miami,Private room,95,3,191,3.8,296
+1075,4789,New York,Entire home,199,5,211,3.2,77
+1076,4087,Los Angeles,Entire home,367,10,83,4.1,283
+1077,3387,New York,Private room,484,9,233,4.0,180
+1078,2342,Chicago,Shared room,176,7,275,4.8,328
+1079,4797,Los Angeles,Entire home,136,10,6,3.3,286
+1080,3806,Los Angeles,Shared room,478,6,109,3.8,244
+1081,4861,Dallas,Private room,201,9,249,4.5,173
+1082,4128,Chicago,Private room,438,2,121,4.9,334
+1083,3309,New York,Private room,112,1,284,3.4,165
+1084,2343,Los Angeles,Entire home,177,8,297,4.0,263
+1085,1237,Dallas,Private room,85,6,184,4.2,66
+1086,3502,Los Angeles,Private room,99,4,93,3.8,143
+1087,1324,Dallas,Shared room,163,7,141,3.0,303
+1088,2510,Los Angeles,Private room,216,3,182,4.0,289
+1089,1072,Dallas,Entire home,248,1,289,4.0,54
+1090,2102,Los Angeles,Private room,296,7,3,2.9,146
+1091,1745,Los Angeles,Shared room,266,4,208,2.5,69
+1092,4686,Miami,Entire home,150,4,157,2.9,344
+1093,1312,Miami,Entire home,41,6,112,3.1,64
+1094,4785,Chicago,Entire home,477,8,76,4.3,136
+1095,3875,Chicago,Private room,304,2,49,4.5,361
+1096,3230,Los Angeles,Shared room,139,4,281,2.6,250
+1097,2104,Miami,Shared room,125,6,9,2.7,66
+1098,3916,New York,Entire home,327,5,169,3.6,76
+1099,3243,Los Angeles,Entire home,208,8,1,4.2,330
+1100,3462,New York,Private room,310,10,287,4.5,224
+1101,4185,Chicago,Entire home,435,4,204,4.0,139
+1102,2142,New York,Shared room,69,3,189,3.7,106
+1103,4637,Miami,Shared room,152,10,49,3.4,223
+1104,4177,New York,Private room,481,5,281,3.0,208
+1105,4568,New York,Entire home,137,10,53,4.3,106
+1106,3696,Los Angeles,Entire home,483,10,198,3.0,340
+1107,2862,Dallas,Shared room,235,10,218,4.2,43
+1108,1056,Chicago,Entire home,395,8,218,4.9,62
+1109,3207,New York,Entire home,497,5,14,3.1,121
+1110,2350,New York,Shared room,198,5,141,4.8,29
+1111,3379,Chicago,Shared room,219,3,3,3.7,279
+1112,2904,Los Angeles,Private room,310,10,131,3.8,301
+1113,1088,Miami,Private room,318,4,147,4.3,93
+1114,3973,New York,Shared room,106,8,285,2.6,138
+1115,4804,Dallas,Private room,171,8,76,4.9,230
+1116,1992,New York,Entire home,493,5,66,4.2,214
+1117,4159,New York,Entire home,345,3,44,2.6,280
+1118,3631,Miami,Entire home,166,3,37,4.8,61
+1119,2487,Chicago,Entire home,84,4,3,3.8,46
+1120,1152,New York,Entire home,427,6,159,4.9,97
+1121,1818,Los Angeles,Private room,305,1,269,4.6,292
+1122,1609,New York,Shared room,79,7,156,2.9,157
+1123,4924,Chicago,Entire home,159,6,279,2.9,33
+1124,1194,Miami,Private room,166,10,63,4.4,222
+1125,4181,Miami,Entire home,179,9,29,3.8,344
+1126,3148,New York,Entire home,131,10,35,4.0,329
+1127,3267,New York,Entire home,87,5,296,3.2,355
+1128,3081,Chicago,Shared room,480,1,102,4.4,149
+1129,4479,Dallas,Entire home,214,8,162,4.7,34
+1130,2401,New York,Shared room,390,5,149,4.0,67
+1131,4523,Chicago,Entire home,448,8,197,4.7,317
+1132,4872,Chicago,Private room,316,10,97,3.1,237
+1133,4035,Chicago,Shared room,420,2,151,3.7,357
+1134,2587,Miami,Shared room,30,4,40,2.9,24
+1135,3252,Dallas,Entire home,265,7,161,4.1,10
+1136,3004,Los Angeles,Shared room,323,4,214,3.8,287
+1137,1547,New York,Entire home,379,5,69,4.7,2
+1138,1745,Miami,Entire home,401,3,76,3.9,48
+1139,4663,Dallas,Shared room,352,5,34,3.0,288
+1140,2764,New York,Private room,82,4,94,2.7,322
+1141,4827,Los Angeles,Entire home,489,6,189,2.7,111
+1142,3533,Chicago,Shared room,390,7,122,3.8,220
+1143,2515,New York,Private room,472,9,6,3.2,230
+1144,1516,Dallas,Private room,420,7,254,3.8,345
+1145,1430,New York,Private room,455,2,239,3.3,43
+1146,2801,Dallas,Entire home,244,3,44,2.9,328
+1147,3048,Dallas,Shared room,341,4,41,4.8,92
+1148,1281,Los Angeles,Shared room,293,2,292,3.3,357
+1149,3736,Chicago,Shared room,312,10,237,4.9,106
+1150,2389,Chicago,Entire home,65,3,35,4.6,287
+1151,4403,Miami,Shared room,324,6,35,4.5,35
+1152,1625,Chicago,Shared room,484,6,20,3.4,231
+1153,3578,Dallas,Private room,194,5,85,3.8,287
+1154,2363,Los Angeles,Shared room,73,6,142,3.4,104
+1155,1717,Los Angeles,Shared room,326,3,156,4.2,1
+1156,4400,Los Angeles,Shared room,451,3,16,4.1,101
+1157,4988,New York,Shared room,60,10,241,4.3,222
+1158,4527,Los Angeles,Private room,49,5,270,3.7,26
+1159,2697,Los Angeles,Shared room,411,6,183,3.7,356
+1160,2073,Chicago,Private room,148,1,85,3.7,41
+1161,4485,Los Angeles,Shared room,459,9,16,4.0,147
+1162,4426,New York,Shared room,365,10,297,4.1,362
+1163,4509,Dallas,Entire home,473,9,250,3.2,101
+1164,1230,Dallas,Private room,50,6,118,3.0,43
+1165,1237,Dallas,Private room,258,6,220,2.5,238
+1166,2511,New York,Private room,434,8,85,2.7,225
+1167,1112,Chicago,Shared room,332,6,263,4.6,300
+1168,4226,New York,Entire home,300,3,1,3.2,241
+1169,3845,Los Angeles,Private room,135,8,145,4.0,1
+1170,2662,Chicago,Entire home,247,10,191,4.7,205
+1171,3701,Miami,Entire home,116,6,88,2.9,2
+1172,4767,Chicago,Shared room,418,4,38,4.2,218
+1173,4136,Los Angeles,Shared room,297,10,130,4.6,287
+1174,3961,Chicago,Private room,134,3,267,4.7,203
+1175,4003,Los Angeles,Private room,272,5,2,3.2,282
+1176,1022,Dallas,Shared room,183,9,282,4.5,179
+1177,1940,New York,Shared room,363,7,94,2.6,151
+1178,1218,Chicago,Private room,429,4,148,4.5,308
+1179,2881,Miami,Entire home,179,1,15,4.5,19
+1180,3486,Chicago,Shared room,306,10,217,4.9,112
+1181,3085,New York,Entire home,495,3,164,2.7,364
+1182,2360,New York,Shared room,338,9,171,3.5,298
+1183,1709,Dallas,Shared room,412,4,297,3.4,90
+1184,2480,Los Angeles,Entire home,500,1,85,4.4,226
+1185,2466,Miami,Shared room,154,7,90,4.3,104
+1186,1332,New York,Shared room,449,3,252,3.3,72
+1187,2232,New York,Shared room,298,9,15,4.0,204
+1188,3379,Dallas,Shared room,63,9,136,3.4,36
+1189,1226,Chicago,Shared room,178,5,122,4.1,271
+1190,1291,Los Angeles,Private room,195,7,57,2.7,10
+1191,1615,Miami,Private room,328,4,39,3.5,151
+1192,3465,New York,Entire home,131,1,282,3.2,343
+1193,4491,New York,Private room,227,3,154,4.3,171
+1194,4026,New York,Private room,211,2,27,3.6,342
+1195,4014,Dallas,Entire home,244,1,252,2.7,92
+1196,1008,Dallas,Entire home,58,5,141,3.0,29
+1197,2149,New York,Private room,250,7,89,3.0,191
+1198,4425,Los Angeles,Private room,199,5,297,2.6,136
+1199,4133,Miami,Private room,179,4,259,4.0,41
+1200,2584,Los Angeles,Entire home,316,2,16,4.9,353
+1201,2145,New York,Shared room,99,10,205,3.2,1
+1202,3699,Chicago,Private room,314,5,78,4.8,315
+1203,3747,Chicago,Entire home,279,5,107,4.5,318
+1204,4804,Chicago,Shared room,284,7,287,4.1,195
+1205,3636,Los Angeles,Private room,285,8,223,4.3,352
+1206,2081,Chicago,Private room,266,5,207,3.9,356
+1207,3640,Miami,Shared room,205,3,121,3.1,186
+1208,1268,Miami,Shared room,434,1,180,3.0,233
+1209,4104,Dallas,Private room,383,5,270,3.1,309
+1210,2749,New York,Private room,182,3,173,5.0,155
+1211,1189,New York,Entire home,457,6,280,3.0,67
+1212,1366,Chicago,Shared room,416,8,104,3.7,61
+1213,4655,Miami,Shared room,188,9,21,4.7,147
+1214,4855,Dallas,Entire home,336,2,102,3.1,276
+1215,4539,Chicago,Entire home,33,8,226,4.8,304
+1216,3092,New York,Private room,452,4,268,4.5,364
+1217,3572,Los Angeles,Entire home,404,2,61,3.9,64
+1218,4876,Miami,Entire home,391,10,105,3.1,58
+1219,1560,Miami,Entire home,189,5,194,2.6,4
+1220,1676,Dallas,Private room,476,5,191,3.3,309
+1221,2543,Dallas,Shared room,290,6,36,2.9,218
+1222,2433,Los Angeles,Entire home,231,2,133,3.4,287
+1223,2589,Chicago,Shared room,431,10,114,3.6,279
+1224,4414,Dallas,Private room,143,2,37,3.6,20
+1225,2218,Chicago,Shared room,336,4,204,2.6,345
+1226,1269,Chicago,Entire home,185,6,24,3.1,293
+1227,1885,Dallas,Shared room,115,6,214,4.2,192
+1228,1535,Miami,Private room,153,4,173,2.7,77
+1229,4860,Chicago,Private room,301,3,11,3.7,42
+1230,4491,New York,Private room,293,10,178,4.9,236
+1231,2880,Dallas,Entire home,182,7,67,3.7,189
+1232,3933,Dallas,Private room,378,7,132,4.4,159
+1233,4237,Miami,Shared room,212,10,34,3.7,302
+1234,4854,Miami,Entire home,498,3,182,5.0,185
+1235,4909,Chicago,Entire home,493,2,74,3.0,106
+1236,2127,Dallas,Entire home,136,2,130,2.5,243
+1237,2296,Miami,Private room,200,1,258,4.3,250
+1238,1820,Los Angeles,Entire home,123,4,149,3.6,302
+1239,3652,Chicago,Entire home,143,10,0,4.0,241
+1240,4302,Miami,Shared room,403,4,4,3.6,136
+1241,2655,Miami,Entire home,463,4,84,3.9,186
+1242,4003,Los Angeles,Private room,365,7,112,5.0,184
+1243,4227,New York,Shared room,359,7,230,3.1,118
+1244,2517,Los Angeles,Entire home,177,8,278,5.0,250
+1245,2927,Chicago,Shared room,255,9,205,4.7,165
+1246,2738,Dallas,Entire home,441,4,241,3.5,53
+1247,4926,Miami,Entire home,157,8,84,3.6,125
+1248,1945,Chicago,Entire home,306,4,96,2.5,282
+1249,3000,Miami,Entire home,253,4,133,3.2,20
+1250,3255,Miami,Private room,369,1,205,4.4,269
+1251,2535,Los Angeles,Private room,188,8,210,3.3,357
+1252,1988,Miami,Entire home,90,10,97,3.9,290
+1253,4018,Los Angeles,Shared room,381,10,79,4.0,121
+1254,1806,New York,Private room,400,4,188,3.3,310
+1255,2976,Los Angeles,Entire home,406,9,46,3.0,240
+1256,4027,Miami,Shared room,86,9,190,5.0,303
+1257,3043,Miami,Entire home,460,1,121,3.8,27
+1258,4833,Los Angeles,Private room,426,3,179,4.5,145
+1259,2818,Los Angeles,Shared room,242,6,141,4.3,10
+1260,2976,Dallas,Entire home,164,9,166,2.8,84
+1261,4958,Miami,Entire home,361,7,201,3.6,90
+1262,1126,Miami,Shared room,146,2,26,3.3,138
+1263,1157,New York,Shared room,184,6,234,3.0,17
+1264,2163,Chicago,Private room,71,5,194,4.2,270
+1265,1974,Dallas,Shared room,302,8,10,3.9,229
+1266,2065,Miami,Shared room,315,3,205,2.6,61
+1267,4840,Los Angeles,Entire home,384,7,202,3.3,336
+1268,2496,New York,Shared room,257,3,184,3.2,222
+1269,1878,Los Angeles,Shared room,174,6,239,3.4,196
+1270,1613,Miami,Entire home,481,2,229,3.8,256
+1271,3805,Los Angeles,Private room,302,2,5,4.4,329
+1272,3487,Miami,Entire home,174,4,31,4.3,59
+1273,1152,Chicago,Shared room,38,10,249,3.3,202
+1274,3814,Chicago,Private room,130,3,238,2.8,205
+1275,2535,New York,Shared room,241,9,230,3.8,302
+1276,3563,Chicago,Private room,273,1,252,3.4,272
+1277,2415,Dallas,Entire home,427,10,83,3.4,81
+1278,2262,Los Angeles,Shared room,109,3,82,4.1,291
+1279,3497,Miami,Entire home,489,10,285,4.7,22
+1280,1175,Dallas,Shared room,293,2,106,3.3,149
+1281,4490,Los Angeles,Private room,353,7,54,4.2,263
+1282,1949,Miami,Entire home,343,1,296,4.5,178
+1283,2764,Miami,Shared room,290,6,37,4.7,74
+1284,2993,Chicago,Entire home,494,8,195,3.3,149
+1285,3360,Miami,Entire home,145,5,7,3.4,288
+1286,2588,New York,Entire home,285,8,65,3.2,300
+1287,4915,Los Angeles,Private room,171,6,42,4.6,61
+1288,3293,New York,Shared room,245,8,170,3.6,345
+1289,4495,Dallas,Private room,88,10,258,4.1,273
+1290,4752,Los Angeles,Shared room,500,6,223,4.8,136
+1291,1880,New York,Shared room,303,1,255,4.4,128
+1292,1991,Chicago,Shared room,66,6,0,2.9,112
+1293,4390,Miami,Private room,374,6,205,3.1,221
+1294,3106,Los Angeles,Private room,107,2,159,2.6,329
+1295,2411,Dallas,Shared room,90,1,72,3.5,352
+1296,2649,New York,Shared room,388,9,172,4.0,248
+1297,2634,Chicago,Shared room,324,3,18,3.1,290
+1298,4567,Dallas,Entire home,151,4,251,5.0,302
+1299,4673,New York,Entire home,306,6,57,4.7,46
+1300,2204,Dallas,Shared room,229,8,165,4.9,291
+1301,3698,New York,Private room,292,4,193,3.4,32
+1302,1453,Miami,Shared room,427,1,142,3.9,239
+1303,2184,Dallas,Entire home,191,6,224,3.6,7
+1304,3799,Dallas,Entire home,304,2,117,3.7,132
+1305,1627,Los Angeles,Private room,45,9,32,2.6,228
+1306,1622,Chicago,Entire home,71,2,189,4.4,97
+1307,3680,Los Angeles,Entire home,59,4,271,2.7,295
+1308,4910,Miami,Private room,45,1,209,2.7,257
+1309,1397,Dallas,Entire home,71,9,250,2.6,15
+1310,4559,Chicago,Entire home,302,10,36,4.4,126
+1311,1974,Los Angeles,Shared room,87,7,82,4.0,1
+1312,3630,Chicago,Shared room,499,9,255,4.2,163
+1313,2909,Los Angeles,Entire home,197,4,53,4.1,294
+1314,3303,Miami,Shared room,257,8,93,3.6,270
+1315,3472,Los Angeles,Entire home,168,1,74,4.4,297
+1316,3063,New York,Shared room,207,2,257,4.1,166
+1317,1646,New York,Shared room,44,6,77,2.7,38
+1318,2743,Chicago,Private room,465,7,269,3.4,73
+1319,2149,New York,Shared room,307,8,282,3.4,148
+1320,1924,Los Angeles,Private room,452,1,280,4.0,178
+1321,1703,New York,Private room,225,9,6,4.9,23
+1322,4640,Los Angeles,Shared room,304,6,85,3.4,246
+1323,4063,Miami,Private room,381,6,245,4.9,132
+1324,3402,Los Angeles,Private room,374,3,72,4.7,350
+1325,2039,Dallas,Entire home,209,10,164,4.2,138
+1326,4321,Chicago,Shared room,241,3,37,3.6,306
+1327,3181,Dallas,Private room,494,1,146,3.9,217
+1328,2662,New York,Shared room,403,10,192,4.1,42
+1329,4236,New York,Private room,373,7,279,4.2,181
+1330,1763,Los Angeles,Shared room,122,6,228,3.3,104
+1331,4256,Los Angeles,Shared room,157,4,208,3.8,161
+1332,4835,Miami,Private room,87,7,51,4.3,265
+1333,3681,Los Angeles,Entire home,201,6,34,3.0,233
+1334,3223,Los Angeles,Shared room,368,2,132,4.6,325
+1335,2843,Miami,Shared room,196,2,217,2.8,183
+1336,3544,Chicago,Entire home,43,9,299,4.7,76
+1337,3472,Dallas,Shared room,262,10,181,4.8,357
+1338,3715,Miami,Private room,471,5,123,4.8,20
+1339,2159,Los Angeles,Private room,421,4,210,4.9,265
+1340,1754,Miami,Shared room,76,7,174,4.9,349
+1341,1137,Los Angeles,Shared room,486,7,298,4.7,104
+1342,4447,New York,Private room,60,3,225,4.9,42
+1343,3783,Dallas,Entire home,121,10,9,2.5,9
+1344,4278,Chicago,Entire home,351,2,39,3.5,191
+1345,4125,Miami,Private room,468,3,205,3.1,357
+1346,2839,Miami,Private room,427,1,50,2.7,166
+1347,2049,Los Angeles,Shared room,247,5,74,3.9,259
+1348,4957,Dallas,Private room,329,7,274,4.3,356
+1349,1103,Dallas,Entire home,245,6,40,5.0,8
+1350,1196,Miami,Shared room,248,8,45,4.8,13
+1351,3157,New York,Entire home,375,2,60,3.3,361
+1352,2667,Miami,Entire home,170,2,173,4.2,46
+1353,4698,New York,Shared room,301,4,240,4.0,192
+1354,2067,Chicago,Shared room,185,1,137,3.4,67
+1355,4094,Dallas,Private room,319,7,111,4.7,126
+1356,1476,Chicago,Shared room,151,10,100,5.0,204
+1357,2697,New York,Private room,302,3,205,4.7,295
+1358,3931,Chicago,Entire home,490,2,193,5.0,169
+1359,2455,Chicago,Shared room,306,2,194,4.7,313
+1360,4875,Miami,Private room,430,3,114,4.1,85
+1361,4255,Dallas,Private room,325,3,83,4.3,238
+1362,4185,New York,Shared room,150,9,99,4.9,7
+1363,3228,Chicago,Shared room,467,10,32,2.7,27
+1364,2226,Los Angeles,Entire home,263,5,222,2.7,250
+1365,2699,Chicago,Entire home,497,5,258,3.4,154
+1366,2626,Los Angeles,Private room,226,5,140,3.1,278
+1367,4345,Dallas,Private room,461,10,8,2.6,336
+1368,2746,Chicago,Shared room,399,5,58,3.0,338
+1369,4938,Dallas,Shared room,110,10,132,4.6,105
+1370,3100,New York,Entire home,479,6,246,2.9,19
+1371,3841,Los Angeles,Private room,139,4,270,3.3,219
+1372,3140,Chicago,Shared room,145,7,105,4.0,179
+1373,1655,Chicago,Shared room,111,10,163,4.3,18
+1374,4603,Chicago,Private room,428,3,68,4.8,329
+1375,2955,Dallas,Private room,247,6,85,4.3,84
+1376,2715,Chicago,Shared room,236,1,111,4.2,318
+1377,1567,Los Angeles,Private room,369,1,195,4.0,296
+1378,3834,Miami,Private room,423,2,292,4.1,285
+1379,4279,New York,Shared room,357,5,113,3.5,146
+1380,4196,New York,Shared room,157,7,95,3.5,167
+1381,3350,New York,Shared room,337,1,35,3.8,249
+1382,4804,Miami,Private room,346,8,73,4.6,349
+1383,2769,Miami,Shared room,248,10,81,3.6,32
+1384,4582,Dallas,Entire home,230,2,45,2.8,99
+1385,3993,Chicago,Entire home,290,10,116,3.7,52
+1386,4402,Los Angeles,Shared room,221,9,60,4.8,276
+1387,1577,Chicago,Shared room,128,5,256,3.0,361
+1388,4149,Dallas,Entire home,101,1,164,2.9,47
+1389,2114,Dallas,Shared room,305,9,6,2.7,363
+1390,1601,Chicago,Private room,363,8,188,3.8,66
+1391,4643,Miami,Entire home,169,8,245,2.6,41
+1392,4870,Chicago,Private room,382,10,198,3.2,215
+1393,2479,Miami,Private room,232,7,167,4.8,325
+1394,4101,New York,Entire home,177,8,299,3.7,222
+1395,4668,Miami,Shared room,109,8,30,3.1,302
+1396,4630,Chicago,Shared room,394,6,185,3.2,19
+1397,1772,Chicago,Private room,201,3,270,3.0,95
+1398,3343,Miami,Entire home,278,4,10,4.7,87
+1399,3743,Dallas,Entire home,180,9,207,4.8,211
+1400,2971,Los Angeles,Entire home,337,5,231,3.2,327
+1401,3644,Chicago,Shared room,365,3,49,2.6,59
+1402,1936,Dallas,Private room,492,10,218,4.1,362
+1403,4811,Dallas,Private room,455,4,66,4.0,59
+1404,3551,Miami,Private room,61,3,272,4.3,71
+1405,1467,Dallas,Private room,467,8,51,3.3,131
+1406,3508,Chicago,Entire home,456,6,275,3.9,146
+1407,3639,Los Angeles,Shared room,291,3,263,4.4,43
+1408,1040,Dallas,Shared room,156,10,252,3.9,273
+1409,2757,Miami,Private room,368,1,44,3.1,161
+1410,2982,Dallas,Private room,438,7,7,4.8,226
+1411,2886,Los Angeles,Private room,166,2,58,4.1,324
+1412,1876,Los Angeles,Shared room,97,5,46,4.7,253
+1413,1657,New York,Entire home,256,1,24,3.8,320
+1414,2122,New York,Entire home,153,1,116,4.4,288
+1415,1580,Los Angeles,Shared room,320,7,171,3.9,220
+1416,3362,New York,Shared room,351,6,206,2.8,235
+1417,4314,Miami,Shared room,469,7,60,2.8,70
+1418,2466,New York,Private room,297,4,24,3.4,80
+1419,2784,Los Angeles,Entire home,253,5,101,2.8,114
+1420,1370,New York,Entire home,269,7,111,4.9,99
+1421,1390,Miami,Shared room,109,1,251,2.8,29
+1422,3328,Dallas,Entire home,371,6,269,3.5,332
+1423,3057,New York,Private room,134,8,222,2.6,125
+1424,1495,Los Angeles,Entire home,44,3,37,3.6,349
+1425,1872,New York,Shared room,204,6,224,3.1,224
+1426,3209,Dallas,Shared room,206,1,258,4.2,348
+1427,2586,Dallas,Shared room,414,4,185,3.7,356
+1428,3217,Dallas,Entire home,78,2,284,3.1,151
+1429,4244,Miami,Shared room,98,5,59,4.8,321
+1430,1312,New York,Entire home,275,8,87,3.7,350
+1431,3586,Los Angeles,Entire home,282,7,156,3.1,141
+1432,4939,Chicago,Entire home,361,8,55,3.2,326
+1433,1486,Miami,Entire home,467,9,83,3.6,62
+1434,3593,Miami,Shared room,167,10,168,3.4,216
+1435,3086,New York,Entire home,457,7,88,4.5,314
+1436,2368,New York,Shared room,145,2,125,3.8,168
+1437,4329,Chicago,Private room,406,9,91,3.2,322
+1438,1584,Los Angeles,Private room,479,1,182,3.7,165
+1439,3747,Dallas,Entire home,349,10,109,3.3,50
+1440,2336,New York,Shared room,307,6,2,3.5,263
+1441,4706,Chicago,Entire home,353,1,74,4.1,200
+1442,4397,Miami,Shared room,404,9,29,2.9,47
+1443,2862,Los Angeles,Shared room,466,1,139,5.0,328
+1444,3048,Miami,Entire home,198,9,127,2.8,332
+1445,2115,Chicago,Private room,399,2,275,4.9,233
+1446,2165,Miami,Private room,142,10,22,3.9,97
+1447,4878,Miami,Shared room,44,4,208,4.3,96
+1448,2843,Dallas,Shared room,462,5,126,3.3,326
+1449,1841,Los Angeles,Shared room,179,8,158,4.1,121
+1450,1431,Chicago,Private room,384,1,225,4.5,127
+1451,3912,Chicago,Private room,447,10,146,3.7,137
+1452,3168,Los Angeles,Entire home,273,3,109,2.8,290
+1453,1319,Chicago,Private room,263,5,237,4.0,129
+1454,3159,Los Angeles,Shared room,51,7,127,4.4,147
+1455,1212,Dallas,Entire home,97,3,285,3.9,93
+1456,4975,Miami,Private room,231,8,114,4.3,271
+1457,1813,Miami,Private room,276,2,125,4.4,244
+1458,4606,Dallas,Shared room,132,4,152,4.0,310
+1459,4181,Chicago,Shared room,235,2,25,3.7,297
+1460,3929,Los Angeles,Private room,443,1,299,3.1,180
+1461,1744,Chicago,Private room,282,2,171,4.2,215
+1462,1507,Dallas,Shared room,360,1,101,5.0,162
+1463,3382,Chicago,Shared room,397,2,139,3.0,21
+1464,2987,New York,Entire home,226,5,183,4.5,34
+1465,4798,Dallas,Shared room,290,4,127,4.0,159
+1466,3701,Los Angeles,Entire home,146,10,129,4.4,237
+1467,3456,New York,Entire home,194,1,67,3.9,269
+1468,1626,New York,Entire home,82,7,164,4.7,334
+1469,4685,Miami,Entire home,152,3,261,4.4,181
+1470,2001,Miami,Private room,370,2,22,2.7,295
+1471,3204,Dallas,Shared room,336,5,110,3.3,5
+1472,2021,Chicago,Shared room,351,1,121,4.4,319
+1473,4333,Chicago,Shared room,242,2,214,4.7,115
+1474,4432,Los Angeles,Entire home,309,5,120,3.6,322
+1475,4143,Miami,Shared room,407,4,14,4.5,191
+1476,1889,Dallas,Private room,381,4,125,3.6,143
+1477,2524,Los Angeles,Private room,462,5,88,2.9,130
+1478,1619,Los Angeles,Private room,456,9,216,4.1,275
+1479,4360,Los Angeles,Private room,336,3,287,4.1,126
+1480,2649,Los Angeles,Entire home,364,6,260,4.7,250
+1481,3586,Los Angeles,Private room,155,10,154,4.3,333
+1482,2951,Chicago,Shared room,250,1,185,3.8,33
+1483,2949,Los Angeles,Private room,399,5,215,3.3,243
+1484,4229,Los Angeles,Shared room,156,1,3,3.5,17
+1485,1583,Chicago,Private room,157,3,158,3.5,53
+1486,1121,Miami,Private room,387,4,238,2.6,243
+1487,2931,Los Angeles,Entire home,148,5,211,2.7,53
+1488,4574,New York,Shared room,374,3,36,4.1,272
+1489,3595,New York,Private room,278,1,153,4.2,226
+1490,2306,Dallas,Entire home,481,8,160,3.0,207
+1491,2627,Los Angeles,Entire home,401,3,295,4.9,74
+1492,4918,Dallas,Private room,116,7,125,2.7,184
+1493,1840,Miami,Entire home,403,1,266,3.4,317
+1494,3045,Chicago,Entire home,331,9,61,2.9,271
+1495,4949,Chicago,Shared room,164,6,186,4.6,189
+1496,3925,Chicago,Entire home,141,9,153,4.6,125
+1497,3550,Chicago,Entire home,468,8,260,2.6,143
+1498,3058,Dallas,Private room,278,3,183,2.8,202
+1499,1252,Miami,Entire home,361,9,21,4.3,49
+1500,3924,New York,Shared room,257,6,0,3.1,55
+1501,3661,New York,Entire home,370,3,230,3.6,133
+1502,4036,Los Angeles,Shared room,472,9,174,3.3,96
+1503,2011,Dallas,Shared room,364,7,207,2.5,71
+1504,3650,Dallas,Private room,499,7,205,4.3,132
+1505,3643,Chicago,Entire home,204,2,213,4.0,106
+1506,3572,Los Angeles,Private room,425,9,45,4.8,189
+1507,1474,Chicago,Entire home,222,9,225,4.1,104
+1508,3101,Miami,Private room,242,1,260,3.1,281
+1509,3354,New York,Shared room,78,9,145,4.9,46
+1510,2620,Miami,Private room,452,5,206,2.8,136
+1511,3705,Los Angeles,Private room,168,10,122,3.9,82
+1512,4932,Miami,Entire home,469,8,91,4.1,210
+1513,2700,Chicago,Private room,246,7,299,4.5,309
+1514,1296,Chicago,Shared room,306,7,37,3.7,42
+1515,3017,Los Angeles,Shared room,333,7,187,3.6,126
+1516,1932,Miami,Shared room,337,10,236,4.8,2
+1517,3453,Dallas,Shared room,96,5,132,4.2,209
+1518,3784,Los Angeles,Private room,292,1,58,3.8,343
+1519,2072,Los Angeles,Entire home,152,1,244,4.4,7
+1520,3414,Miami,Shared room,493,8,286,2.7,337
+1521,4884,Los Angeles,Private room,98,2,56,3.0,240
+1522,4062,Miami,Shared room,338,1,62,2.9,201
+1523,2971,Miami,Private room,74,7,271,3.2,159
+1524,1958,Los Angeles,Shared room,390,7,78,3.0,88
+1525,2326,Chicago,Entire home,133,7,134,3.1,172
+1526,3819,Miami,Private room,125,8,211,4.4,108
+1527,4407,Miami,Private room,241,4,233,3.2,101
+1528,4350,Dallas,Private room,394,8,116,2.6,26
+1529,2902,Chicago,Private room,144,5,233,4.8,111
+1530,2154,Los Angeles,Private room,245,10,270,3.9,32
+1531,4302,Dallas,Entire home,213,9,286,3.5,84
+1532,2745,Los Angeles,Shared room,457,5,202,4.8,332
+1533,2406,New York,Entire home,495,10,161,4.2,187
+1534,3116,Dallas,Shared room,296,10,119,4.8,122
+1535,3783,Dallas,Private room,62,2,232,3.3,239
+1536,1178,Chicago,Entire home,289,6,111,4.2,254
+1537,4180,Dallas,Private room,34,6,46,4.1,343
+1538,1168,Miami,Shared room,336,10,39,3.1,67
+1539,2910,Chicago,Private room,276,5,212,2.6,149
+1540,4430,Los Angeles,Shared room,422,3,45,3.5,124
+1541,3109,Chicago,Entire home,161,9,187,4.8,290
+1542,1501,New York,Shared room,115,10,97,2.5,49
+1543,4447,Miami,Entire home,340,4,283,3.8,303
+1544,1178,Chicago,Private room,205,7,133,4.2,353
+1545,3122,New York,Private room,184,1,148,3.0,53
+1546,2421,Miami,Private room,303,2,32,2.9,103
+1547,4923,Dallas,Private room,82,5,101,3.0,324
+1548,1950,Miami,Entire home,411,9,273,5.0,60
+1549,1793,New York,Entire home,370,7,212,3.6,302
+1550,4327,Chicago,Shared room,355,10,271,4.2,267
+1551,3885,Los Angeles,Private room,213,8,213,2.5,153
+1552,2841,Chicago,Entire home,110,3,53,3.0,315
+1553,4045,Miami,Private room,33,9,281,3.2,250
+1554,4760,Chicago,Entire home,387,7,120,4.4,199
+1555,4100,Miami,Private room,328,9,284,2.8,221
+1556,4653,Los Angeles,Shared room,334,1,63,2.9,302
+1557,4907,New York,Entire home,216,8,281,3.4,236
+1558,3469,New York,Private room,368,8,294,3.6,354
+1559,3258,Chicago,Entire home,494,6,161,3.6,18
+1560,1200,Miami,Private room,447,1,15,2.7,109
+1561,4980,Chicago,Shared room,157,6,217,3.2,330
+1562,1805,Los Angeles,Shared room,471,10,82,4.6,73
+1563,3037,Los Angeles,Entire home,183,1,12,4.8,234
+1564,2497,Chicago,Private room,299,1,289,2.6,349
+1565,2399,New York,Private room,123,8,55,3.8,90
+1566,4625,Los Angeles,Shared room,257,9,201,4.5,45
+1567,2904,New York,Private room,344,10,38,4.8,330
+1568,4466,Los Angeles,Shared room,381,7,53,3.1,173
+1569,1339,Chicago,Shared room,274,8,178,2.6,186
+1570,1714,New York,Private room,499,2,130,3.8,32
+1571,1916,Chicago,Shared room,165,5,245,2.7,122
+1572,3025,Los Angeles,Private room,494,1,3,3.2,105
+1573,4783,New York,Private room,261,6,94,3.7,28
+1574,3458,Miami,Shared room,180,6,16,4.5,194
+1575,3882,Los Angeles,Shared room,488,10,81,4.3,365
+1576,3416,Miami,Private room,339,8,159,4.7,94
+1577,4932,Dallas,Private room,476,5,243,2.5,218
+1578,4362,Miami,Entire home,316,10,237,4.1,45
+1579,2948,Los Angeles,Entire home,143,10,130,3.6,157
+1580,2278,New York,Entire home,497,7,142,3.6,74
+1581,2824,Miami,Private room,440,6,208,4.5,199
+1582,4919,Los Angeles,Private room,485,9,269,4.8,70
+1583,1889,Dallas,Private room,136,6,120,2.6,63
+1584,3273,Los Angeles,Shared room,342,7,298,2.7,312
+1585,3183,Chicago,Private room,141,5,181,3.0,359
+1586,2015,Dallas,Shared room,165,8,82,3.7,94
+1587,3122,Miami,Entire home,335,7,211,2.9,343
+1588,1206,Miami,Private room,453,4,287,5.0,68
+1589,2332,Los Angeles,Private room,219,1,175,4.1,238
+1590,4575,Miami,Entire home,31,3,288,3.1,78
+1591,4730,New York,Private room,420,3,70,4.2,299
+1592,4532,Dallas,Private room,367,8,252,3.9,134
+1593,3131,Chicago,Private room,162,7,259,4.0,279
+1594,3257,Dallas,Shared room,31,8,278,3.2,144
+1595,1132,Dallas,Private room,63,6,66,3.3,21
+1596,2589,Chicago,Entire home,73,6,129,4.0,154
+1597,3641,Los Angeles,Entire home,47,9,16,3.4,137
+1598,4664,New York,Entire home,341,9,167,4.2,59
+1599,2575,Chicago,Shared room,198,5,223,3.3,158
+1600,2241,Dallas,Entire home,209,10,52,3.5,110
+1601,3793,New York,Shared room,226,9,218,3.1,314
+1602,3234,Los Angeles,Entire home,343,8,239,4.5,328
+1603,2065,Chicago,Entire home,308,7,46,4.9,180
+1604,4531,Dallas,Private room,234,6,279,3.6,342
+1605,1631,Miami,Entire home,42,6,38,4.1,140
+1606,3919,Chicago,Shared room,423,2,87,4.8,303
+1607,4305,Chicago,Shared room,326,6,81,4.2,256
+1608,3830,Dallas,Shared room,48,10,297,3.7,162
+1609,2252,New York,Shared room,186,8,120,3.1,64
+1610,2796,Los Angeles,Entire home,163,1,161,4.4,12
+1611,1408,New York,Shared room,401,9,242,4.2,9
+1612,3881,Dallas,Shared room,239,4,15,2.8,116
+1613,1156,Chicago,Private room,77,6,119,4.0,318
+1614,4125,Dallas,Private room,477,6,111,4.6,29
+1615,1576,Chicago,Private room,271,4,58,2.8,107
+1616,4510,Chicago,Private room,41,10,152,3.4,362
+1617,2538,Miami,Shared room,416,5,209,3.7,347
+1618,4028,Chicago,Private room,128,6,67,4.4,309
+1619,4226,New York,Entire home,384,7,223,4.2,103
+1620,3076,Miami,Entire home,331,9,257,3.3,149
+1621,2052,Chicago,Shared room,434,10,202,2.5,60
+1622,3767,Miami,Shared room,354,10,201,4.1,155
+1623,3950,Los Angeles,Entire home,483,4,135,4.4,182
+1624,4149,Chicago,Entire home,404,1,74,3.4,103
+1625,2831,New York,Shared room,387,9,48,2.7,166
+1626,1470,Los Angeles,Entire home,108,6,61,2.9,31
+1627,3466,Los Angeles,Shared room,70,8,129,2.7,29
+1628,2971,New York,Entire home,245,9,110,4.9,86
+1629,3217,Dallas,Entire home,255,4,273,4.9,212
+1630,1503,Los Angeles,Shared room,287,4,0,4.9,121
+1631,2818,Chicago,Entire home,235,3,194,4.8,365
+1632,3109,Miami,Private room,104,1,258,3.9,169
+1633,4371,Los Angeles,Shared room,379,3,264,2.7,211
+1634,2733,Miami,Private room,226,2,174,2.8,131
+1635,4098,Chicago,Entire home,393,9,290,4.2,12
+1636,3752,Dallas,Shared room,176,6,77,2.8,353
+1637,2275,Los Angeles,Entire home,215,4,5,4.3,285
+1638,4958,Los Angeles,Private room,401,9,254,3.2,0
+1639,4291,Dallas,Shared room,305,7,300,3.2,6
+1640,2065,Dallas,Shared room,118,5,208,3.0,156
+1641,1962,Dallas,Entire home,261,7,103,4.3,278
+1642,2397,Los Angeles,Entire home,151,8,261,2.8,65
+1643,2794,Dallas,Shared room,67,4,282,4.9,30
+1644,1459,Chicago,Private room,167,2,139,3.3,261
+1645,1796,Chicago,Private room,98,7,86,2.5,253
+1646,4956,Dallas,Entire home,163,1,70,3.8,307
+1647,2773,Chicago,Private room,74,10,115,2.7,132
+1648,2034,Los Angeles,Shared room,381,8,52,2.6,188
+1649,2385,Los Angeles,Private room,354,6,114,4.2,218
+1650,3986,Dallas,Entire home,461,5,258,4.4,332
+1651,2538,Dallas,Private room,39,8,172,2.9,311
+1652,1566,Miami,Entire home,192,9,97,4.7,229
+1653,2036,Miami,Shared room,245,9,271,4.2,116
+1654,2805,New York,Entire home,109,8,47,3.0,213
+1655,4167,Dallas,Entire home,165,8,285,3.0,36
+1656,1530,New York,Private room,305,6,72,2.8,148
+1657,1516,Los Angeles,Entire home,290,9,261,2.9,113
+1658,3220,Miami,Shared room,109,7,63,3.5,70
+1659,2884,New York,Entire home,325,1,152,2.8,354
+1660,4450,Miami,Shared room,487,3,226,4.0,159
+1661,1654,Chicago,Private room,277,8,147,4.7,60
+1662,2695,Los Angeles,Entire home,110,10,82,2.8,31
+1663,2743,New York,Private room,166,6,91,3.6,266
+1664,2308,Miami,Entire home,498,2,112,4.2,299
+1665,1833,Chicago,Entire home,41,9,238,3.9,337
+1666,2621,Chicago,Entire home,401,7,0,4.5,361
+1667,3255,Dallas,Entire home,242,9,139,3.0,327
+1668,2305,Los Angeles,Private room,213,7,113,4.5,53
+1669,4856,New York,Shared room,304,4,173,2.7,364
+1670,3013,Miami,Entire home,263,1,294,3.1,326
+1671,2874,Miami,Entire home,32,10,151,3.1,33
+1672,4039,New York,Shared room,33,7,212,4.7,314
+1673,2453,Dallas,Private room,482,6,277,2.9,264
+1674,1318,Chicago,Entire home,89,5,286,3.7,292
+1675,1387,New York,Shared room,451,9,182,2.8,166
+1676,2803,Miami,Shared room,32,5,220,2.9,192
+1677,2008,Miami,Entire home,200,10,156,3.3,298
+1678,2429,New York,Private room,217,7,229,3.9,215
+1679,4053,Los Angeles,Entire home,117,2,254,3.5,221
+1680,2734,Chicago,Private room,255,3,238,2.7,321
+1681,1645,Miami,Entire home,394,1,182,2.5,141
+1682,4423,Dallas,Private room,202,5,267,3.8,273
+1683,2051,Dallas,Shared room,285,8,198,3.7,214
+1684,1353,Miami,Shared room,366,4,96,4.8,10
+1685,3554,New York,Shared room,372,7,157,4.6,70
+1686,1438,New York,Entire home,485,5,74,3.4,362
+1687,4527,New York,Entire home,195,8,122,3.1,122
+1688,4180,New York,Entire home,37,5,49,4.5,101
+1689,3097,Los Angeles,Private room,178,10,262,2.7,1
+1690,3644,New York,Shared room,197,6,29,4.5,254
+1691,4695,Miami,Shared room,275,6,300,2.6,274
+1692,2740,New York,Private room,407,10,31,3.0,145
+1693,2372,Los Angeles,Entire home,220,6,128,3.6,64
+1694,3933,Dallas,Shared room,70,1,180,3.2,337
+1695,1602,Los Angeles,Shared room,65,4,204,2.8,113
+1696,1369,Miami,Shared room,192,7,129,2.9,195
+1697,4878,Dallas,Private room,408,7,206,4.2,171
+1698,3019,Miami,Private room,431,5,259,4.5,277
+1699,1208,Chicago,Entire home,77,5,188,3.0,249
+1700,4946,New York,Shared room,129,6,58,2.6,25
+1701,1613,Miami,Shared room,68,3,189,4.7,326
+1702,3106,New York,Shared room,479,7,274,3.9,149
+1703,1467,Chicago,Private room,170,9,8,2.5,77
+1704,2570,New York,Entire home,99,1,128,4.0,310
+1705,1229,New York,Private room,418,3,163,4.6,273
+1706,4218,New York,Shared room,58,8,265,4.6,262
+1707,2509,Chicago,Shared room,88,10,100,3.7,210
+1708,3091,New York,Shared room,377,9,214,4.8,80
+1709,4760,Chicago,Private room,71,9,244,4.2,342
+1710,1780,Chicago,Private room,164,4,285,3.1,273
+1711,2208,Miami,Private room,210,6,89,4.2,226
+1712,2565,Chicago,Shared room,343,4,155,3.4,147
+1713,2905,Chicago,Entire home,122,10,261,2.6,242
+1714,1657,New York,Private room,475,7,294,3.0,356
+1715,3488,New York,Shared room,37,1,135,4.4,157
+1716,1185,Dallas,Shared room,196,2,168,3.4,22
+1717,3356,New York,Private room,46,3,140,2.5,32
+1718,2531,Los Angeles,Shared room,83,10,2,2.6,258
+1719,4465,New York,Private room,304,1,182,4.4,107
+1720,2667,Dallas,Private room,478,8,222,2.9,269
+1721,4578,Dallas,Shared room,109,10,252,4.1,335
+1722,4247,Los Angeles,Entire home,256,7,248,2.7,357
+1723,1975,New York,Entire home,275,5,100,3.4,246
+1724,4974,Chicago,Shared room,416,4,147,2.9,181
+1725,2752,Miami,Entire home,219,8,19,3.1,347
+1726,1642,Dallas,Shared room,57,2,36,4.3,241
+1727,2623,Los Angeles,Entire home,471,1,257,3.6,318
+1728,3688,Los Angeles,Private room,84,9,32,4.8,102
+1729,3069,Miami,Private room,72,4,148,4.4,42
+1730,3517,Dallas,Entire home,370,1,183,4.6,247
+1731,3999,Dallas,Entire home,456,2,165,3.3,318
+1732,1380,Dallas,Entire home,466,4,71,4.0,280
+1733,3861,Dallas,Shared room,238,2,224,4.4,73
+1734,1541,New York,Entire home,343,1,24,5.0,255
+1735,3974,New York,Shared room,459,3,37,4.7,56
+1736,4176,New York,Shared room,323,1,288,2.7,171
+1737,2501,Chicago,Entire home,89,9,201,2.9,261
+1738,1593,Dallas,Entire home,481,2,300,3.5,50
+1739,2823,New York,Shared room,396,4,203,2.9,108
+1740,3756,New York,Private room,101,4,211,3.1,162
+1741,1381,Los Angeles,Entire home,293,4,138,3.6,109
+1742,3830,Dallas,Entire home,60,7,48,3.4,61
+1743,3916,New York,Shared room,475,7,84,3.7,284
+1744,1050,Miami,Private room,381,4,7,4.9,130
+1745,4588,New York,Shared room,33,6,131,4.8,52
+1746,4745,New York,Private room,318,10,131,2.6,179
+1747,4481,New York,Shared room,145,4,130,4.9,188
+1748,3462,Los Angeles,Entire home,329,1,96,2.7,158
+1749,4683,Los Angeles,Private room,163,3,257,3.0,208
+1750,2813,New York,Shared room,453,6,20,4.2,56
+1751,1152,Los Angeles,Entire home,243,5,292,3.8,33
+1752,2775,Chicago,Private room,125,7,110,3.0,348
+1753,3184,Chicago,Entire home,267,2,82,4.7,287
+1754,4658,Chicago,Shared room,132,7,103,4.9,79
+1755,2366,Dallas,Shared room,406,1,179,4.5,286
+1756,3124,New York,Shared room,436,4,64,4.4,144
+1757,1191,Miami,Shared room,368,9,138,4.6,62
+1758,3889,New York,Entire home,477,1,150,3.2,305
+1759,4843,Miami,Entire home,161,8,239,3.5,60
+1760,4564,New York,Shared room,339,10,49,3.6,290
+1761,3058,Miami,Shared room,367,2,272,4.7,152
+1762,2515,Chicago,Entire home,149,4,269,3.5,315
+1763,3487,Dallas,Private room,41,7,113,4.4,240
+1764,4610,New York,Shared room,395,3,236,4.4,215
+1765,3503,Dallas,Entire home,350,5,254,3.6,71
+1766,1451,Chicago,Entire home,215,6,231,3.6,49
+1767,1856,Miami,Entire home,201,6,169,4.1,87
+1768,1410,Chicago,Shared room,474,5,110,4.8,71
+1769,1374,Miami,Private room,106,5,219,3.9,252
+1770,1399,Chicago,Shared room,161,4,244,4.8,186
+1771,1106,Dallas,Shared room,304,6,228,4.1,92
+1772,3876,Chicago,Shared room,210,8,186,3.8,223
+1773,4278,New York,Shared room,154,2,164,4.5,241
+1774,4458,Miami,Entire home,199,2,162,4.2,110
+1775,1870,New York,Private room,56,5,277,4.1,241
+1776,1846,Los Angeles,Private room,265,6,124,3.3,198
+1777,4843,Dallas,Entire home,420,2,25,4.8,243
+1778,3287,Miami,Entire home,350,10,56,4.4,180
+1779,3484,New York,Private room,355,1,228,2.9,269
+1780,3287,Chicago,Entire home,144,3,227,4.8,156
+1781,4411,Los Angeles,Shared room,305,5,90,3.3,365
+1782,2191,Los Angeles,Private room,216,7,68,3.0,122
+1783,4277,Los Angeles,Shared room,143,2,43,3.8,225
+1784,1059,New York,Shared room,356,3,194,4.0,325
+1785,1746,Miami,Private room,91,8,205,3.0,341
+1786,2648,New York,Private room,176,2,142,4.1,211
+1787,3952,Dallas,Private room,47,9,257,4.3,340
+1788,2485,Los Angeles,Shared room,285,1,186,4.5,231
+1789,3074,New York,Private room,348,9,174,2.8,352
+1790,3784,Los Angeles,Private room,87,9,7,4.8,132
+1791,1526,New York,Entire home,339,8,98,3.4,154
+1792,2361,Los Angeles,Entire home,308,5,277,4.5,210
+1793,4636,New York,Shared room,157,3,291,3.2,91
+1794,3534,Los Angeles,Private room,449,3,189,4.2,264
+1795,1073,New York,Private room,83,9,90,4.7,93
+1796,3889,Chicago,Private room,226,7,257,3.9,254
+1797,3036,Los Angeles,Shared room,379,1,1,4.7,33
+1798,4358,Dallas,Entire home,362,9,111,2.8,146
+1799,4702,New York,Private room,433,6,247,2.6,303
+1800,3075,Miami,Entire home,488,4,283,4.3,100
+1801,2592,Los Angeles,Private room,456,6,152,3.6,114
+1802,2625,Los Angeles,Entire home,465,6,162,4.3,7
+1803,3180,New York,Private room,419,4,40,3.6,166
+1804,3351,Dallas,Shared room,45,6,119,3.7,85
+1805,1566,Dallas,Shared room,103,9,73,3.2,194
+1806,4418,New York,Shared room,267,8,213,3.4,121
+1807,2746,New York,Shared room,237,2,74,2.7,208
+1808,2624,New York,Private room,306,10,244,3.1,181
+1809,4486,Dallas,Private room,379,4,52,2.9,308
+1810,2477,Miami,Shared room,257,8,131,4.1,92
+1811,2298,New York,Private room,213,2,227,2.6,139
+1812,4225,Chicago,Entire home,498,9,191,2.7,222
+1813,3038,Dallas,Private room,45,10,230,4.2,152
+1814,3214,Los Angeles,Shared room,428,7,4,3.2,212
+1815,4170,Los Angeles,Entire home,99,3,44,3.7,251
+1816,1540,Dallas,Shared room,247,7,300,4.7,317
+1817,2333,New York,Private room,137,9,189,4.5,324
+1818,2298,Miami,Entire home,54,10,120,2.7,279
+1819,1012,Dallas,Shared room,131,3,115,2.9,89
+1820,4313,Chicago,Shared room,295,5,209,4.5,35
+1821,4411,Chicago,Shared room,239,5,131,4.4,325
+1822,2035,Chicago,Entire home,190,7,68,4.3,234
+1823,3781,New York,Private room,364,7,236,3.5,20
+1824,2520,Miami,Shared room,211,4,99,4.8,228
+1825,4288,Chicago,Shared room,329,9,260,2.6,273
+1826,2862,Miami,Shared room,129,8,230,2.9,247
+1827,1205,Dallas,Entire home,291,7,299,4.6,208
+1828,3976,Chicago,Private room,173,9,279,4.0,8
+1829,1431,Los Angeles,Private room,215,5,130,2.5,147
+1830,4751,Dallas,Private room,114,6,247,4.4,125
+1831,1880,Miami,Entire home,290,5,71,4.2,65
+1832,1222,New York,Private room,149,6,141,4.4,52
+1833,4659,Chicago,Entire home,331,10,149,3.5,233
+1834,4572,New York,Private room,495,10,223,3.1,153
+1835,2875,Miami,Shared room,461,5,176,4.1,279
+1836,3040,New York,Entire home,279,7,300,4.7,203
+1837,3719,New York,Shared room,463,1,29,2.7,150
+1838,1785,Los Angeles,Shared room,298,1,59,2.8,232
+1839,2637,New York,Shared room,195,7,255,4.3,119
+1840,3098,Los Angeles,Private room,124,6,281,3.6,253
+1841,4321,Los Angeles,Entire home,234,6,42,3.5,343
+1842,1771,Dallas,Entire home,396,6,196,4.5,47
+1843,2822,Chicago,Entire home,329,9,293,2.6,248
+1844,4582,Chicago,Shared room,229,8,257,3.8,172
+1845,1153,Chicago,Private room,182,7,254,3.2,354
+1846,3103,New York,Entire home,399,9,93,3.2,292
+1847,4189,Dallas,Private room,469,10,6,3.0,339
+1848,2896,New York,Shared room,401,1,251,4.2,347
+1849,3784,Dallas,Private room,308,10,206,2.6,70
+1850,2267,New York,Shared room,499,5,92,3.9,155
+1851,4497,Chicago,Shared room,159,4,163,3.4,93
+1852,1732,Los Angeles,Shared room,110,4,275,4.2,110
+1853,2288,Los Angeles,Shared room,449,10,38,4.9,319
+1854,1162,New York,Shared room,129,6,22,3.9,343
+1855,4885,Miami,Entire home,300,4,187,2.8,309
+1856,3796,Dallas,Entire home,279,1,260,3.8,163
+1857,1889,Chicago,Private room,134,5,204,4.6,361
+1858,3152,Los Angeles,Entire home,403,9,83,3.6,201
+1859,4582,New York,Entire home,460,2,38,4.4,25
+1860,3144,New York,Private room,242,8,233,3.3,317
+1861,4392,New York,Private room,259,9,181,3.4,293
+1862,3637,New York,Entire home,247,8,12,4.5,255
+1863,4393,Dallas,Shared room,341,10,48,4.8,43
+1864,4374,Dallas,Private room,253,10,291,3.6,236
+1865,3554,Chicago,Shared room,128,8,145,3.9,266
+1866,1991,Dallas,Entire home,327,5,244,3.6,131
+1867,3630,Los Angeles,Private room,463,6,188,2.8,286
+1868,1022,Dallas,Shared room,341,6,38,3.9,359
+1869,2346,Chicago,Entire home,468,9,100,4.8,114
+1870,4179,Chicago,Private room,176,9,255,4.9,19
+1871,4957,New York,Shared room,366,2,35,3.2,313
+1872,2132,New York,Shared room,187,10,100,3.5,123
+1873,3705,Dallas,Shared room,305,2,192,3.3,162
+1874,2365,Miami,Shared room,404,4,73,2.9,324
+1875,3777,Dallas,Shared room,195,10,68,4.7,129
+1876,2783,Chicago,Private room,312,9,177,3.2,7
+1877,1090,Miami,Shared room,463,5,238,3.4,231
+1878,1314,Chicago,Private room,444,7,37,2.8,262
+1879,3787,Miami,Private room,48,9,286,3.8,227
+1880,3118,New York,Entire home,158,6,297,3.4,144
+1881,2653,Miami,Private room,113,9,223,3.5,268
+1882,2210,Dallas,Entire home,282,10,119,4.8,209
+1883,2818,Dallas,Entire home,470,8,255,4.6,34
+1884,2975,Dallas,Entire home,189,6,193,4.7,179
+1885,3753,Miami,Shared room,115,1,212,3.7,102
+1886,2849,New York,Shared room,425,8,261,2.8,131
+1887,1334,Miami,Private room,133,1,56,4.3,20
+1888,2287,Los Angeles,Shared room,273,10,278,3.3,365
+1889,1368,Los Angeles,Entire home,440,8,52,3.1,156
+1890,4804,New York,Private room,474,9,91,4.8,292
+1891,4557,Chicago,Shared room,98,7,93,3.5,90
+1892,2148,Miami,Shared room,237,9,158,3.2,305
+1893,1314,Miami,Private room,274,4,261,3.9,112
+1894,4745,Dallas,Shared room,465,8,73,3.2,304
+1895,4967,Dallas,Entire home,40,2,198,3.5,15
+1896,2457,Chicago,Entire home,228,7,291,4.7,257
+1897,3494,Los Angeles,Private room,442,1,236,4.8,339
+1898,3755,Los Angeles,Shared room,480,2,247,4.2,191
+1899,4255,New York,Entire home,111,3,163,4.3,155
+1900,3400,Dallas,Entire home,251,5,129,4.6,323
+1901,2935,Miami,Private room,297,2,156,3.4,73
+1902,1684,Los Angeles,Shared room,198,9,98,2.5,69
+1903,1961,Dallas,Entire home,284,1,148,3.3,93
+1904,3627,Miami,Private room,264,2,127,4.2,181
+1905,1228,Chicago,Shared room,404,8,178,3.3,21
+1906,3966,Chicago,Private room,422,6,203,4.0,23
+1907,1026,Chicago,Shared room,398,3,286,3.3,251
+1908,1647,New York,Shared room,452,3,125,3.7,285
+1909,4745,Dallas,Shared room,341,7,195,2.7,111
+1910,2212,Chicago,Private room,251,4,76,3.2,199
+1911,2760,Miami,Private room,185,10,4,4.0,297
+1912,2735,Los Angeles,Shared room,441,9,46,4.4,103
+1913,1825,New York,Shared room,122,5,98,5.0,109
+1914,4405,Dallas,Private room,118,7,18,3.6,47
+1915,4769,Dallas,Entire home,396,6,158,3.0,97
+1916,3205,Miami,Entire home,264,10,163,3.6,96
+1917,1095,Dallas,Private room,369,3,290,4.3,138
+1918,3022,New York,Shared room,114,10,143,3.7,332
+1919,1181,New York,Entire home,207,4,277,3.8,44
+1920,3039,Los Angeles,Shared room,398,9,198,4.6,63
+1921,1618,Dallas,Shared room,269,8,155,3.6,351
+1922,4982,Dallas,Entire home,172,6,257,2.8,170
+1923,4827,Dallas,Entire home,211,10,146,3.0,26
+1924,4846,Los Angeles,Shared room,480,7,59,4.7,129
+1925,1024,Los Angeles,Shared room,275,4,104,2.7,297
+1926,1027,Dallas,Shared room,347,7,183,4.7,64
+1927,3451,Chicago,Shared room,165,4,150,4.3,359
+1928,2899,Los Angeles,Entire home,414,8,112,2.6,80
+1929,1085,Los Angeles,Shared room,153,5,137,3.6,251
+1930,3504,New York,Private room,139,9,130,4.3,292
+1931,2516,Miami,Shared room,164,3,257,3.3,198
+1932,1470,Los Angeles,Private room,376,3,49,2.9,305
+1933,2280,Miami,Entire home,100,7,174,2.9,183
+1934,3017,New York,Entire home,440,10,229,3.0,261
+1935,2192,Chicago,Shared room,113,5,130,4.2,348
+1936,4718,Los Angeles,Shared room,247,7,183,4.1,176
+1937,2913,Chicago,Shared room,72,6,31,4.9,169
+1938,2603,New York,Entire home,190,1,83,3.6,183
+1939,1987,Chicago,Shared room,371,1,233,4.5,149
+1940,2486,Los Angeles,Shared room,499,1,293,4.6,31
+1941,3050,Dallas,Entire home,265,2,175,4.7,240
+1942,3675,Chicago,Private room,158,1,300,4.3,102
+1943,4711,New York,Shared room,272,8,75,4.3,93
+1944,3835,Dallas,Private room,275,7,41,3.1,34
+1945,4445,Los Angeles,Shared room,309,1,174,3.8,6
+1946,4351,Dallas,Entire home,238,5,218,3.2,80
+1947,2894,Los Angeles,Shared room,409,9,264,2.7,58
+1948,1450,Miami,Shared room,62,5,39,4.7,330
+1949,4981,Chicago,Private room,176,10,59,2.6,146
+1950,2840,Miami,Entire home,401,8,36,3.9,14
+1951,4610,Chicago,Private room,218,8,293,2.7,123
+1952,3503,Miami,Shared room,239,5,204,4.1,231
+1953,1033,Chicago,Private room,437,1,115,4.9,148
+1954,2133,New York,Shared room,204,6,35,2.6,76
+1955,2786,Miami,Entire home,315,1,40,3.8,349
+1956,1635,New York,Entire home,113,3,20,4.5,262
+1957,1391,New York,Private room,57,8,77,3.0,348
+1958,4288,Los Angeles,Private room,478,7,186,5.0,100
+1959,4328,New York,Private room,385,6,93,3.1,329
+1960,3847,Los Angeles,Private room,199,9,188,3.9,352
+1961,3906,Miami,Entire home,152,4,232,4.3,291
+1962,1879,New York,Entire home,312,3,142,2.5,95
+1963,1835,Chicago,Shared room,433,6,77,4.4,95
+1964,3340,New York,Private room,69,3,231,3.6,179
+1965,1469,Los Angeles,Shared room,462,4,124,3.4,86
+1966,2845,Los Angeles,Entire home,413,2,15,3.3,2
+1967,2603,Chicago,Entire home,70,9,124,4.8,287
+1968,4681,Chicago,Private room,50,6,265,3.7,252
+1969,3745,Dallas,Shared room,353,3,284,2.8,81
+1970,2740,Chicago,Shared room,374,4,196,4.5,26
+1971,1006,Dallas,Entire home,344,10,249,3.6,358
+1972,4563,Chicago,Private room,290,4,3,4.1,231
+1973,2825,Miami,Shared room,53,7,28,4.4,112
+1974,2927,Chicago,Shared room,363,2,17,4.7,244
+1975,4584,Miami,Private room,386,1,269,2.7,222
+1976,4246,Miami,Entire home,275,6,45,2.5,279
+1977,1327,New York,Shared room,227,5,157,3.2,119
+1978,1551,Los Angeles,Private room,327,5,296,4.1,255
+1979,3238,Miami,Shared room,218,3,290,3.0,337
+1980,3944,Los Angeles,Shared room,349,7,217,2.6,170
+1981,4576,Los Angeles,Entire home,292,6,28,4.9,132
+1982,3977,Dallas,Private room,175,9,16,4.8,187
+1983,2379,Los Angeles,Shared room,167,8,169,3.7,229
+1984,3312,Los Angeles,Private room,178,10,234,4.4,14
+1985,3611,Dallas,Private room,168,1,108,3.2,106
+1986,1092,Dallas,Private room,94,4,91,4.6,212
+1987,2552,Los Angeles,Shared room,422,6,205,3.8,139
+1988,1149,Miami,Entire home,272,4,109,3.1,85
+1989,2710,Dallas,Entire home,234,3,207,2.5,160
+1990,1194,Dallas,Entire home,405,10,79,3.2,327
+1991,3148,Miami,Shared room,427,9,21,2.6,9
+1992,3194,Miami,Private room,198,5,38,4.9,214
+1993,3708,Miami,Private room,89,2,284,3.4,166
+1994,4179,Dallas,Entire home,420,5,108,3.2,66
+1995,4837,New York,Shared room,82,10,99,2.9,216
+1996,3813,Los Angeles,Shared room,228,8,9,4.8,283
+1997,4104,Los Angeles,Entire home,206,9,199,4.6,232
+1998,2134,Chicago,Entire home,198,5,188,3.0,181
+1999,3359,Dallas,Entire home,161,6,196,4.2,8
+2000,1982,New York,Entire home,460,10,98,4.6,186
